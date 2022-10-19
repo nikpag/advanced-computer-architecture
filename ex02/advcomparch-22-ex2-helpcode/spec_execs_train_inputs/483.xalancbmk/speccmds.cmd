@@ -1,0 +1,1 @@
+-o train.out -e train.err ./Xalan_base.amd64-m64-gcc42-nn -v allbooks.xml xalanc.xsl

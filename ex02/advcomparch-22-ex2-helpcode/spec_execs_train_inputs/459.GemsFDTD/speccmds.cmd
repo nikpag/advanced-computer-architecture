@@ -1,0 +1,1 @@
+-o train.log -e train.err ./GemsFDTD_base.amd64-m64-gcc42-nn

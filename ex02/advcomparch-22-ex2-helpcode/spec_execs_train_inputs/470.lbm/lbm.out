@@ -1,0 +1,42 @@
+MAIN_printInfo:
+	grid size      : 100 x 100 x 130 = 1.30 * 10^6 Cells
+	nTimeSteps     : 300
+	result file    : reference.dat
+	action         : nothing
+	simulation type: lid-driven cavity
+	obstacle file  : 100_100_130_cf_b.of
+
+LBM_showGridStatistics:
+	nObstacleCells:  494574 nAccelCells:   18432 nFluidCells:  786994
+	minRho:   1.0000 maxRho:   1.0000 mass: 1.300000e+06
+	minU: 0.000000e+00 maxU: 0.000000e+00
+
+timestep: 64
+LBM_showGridStatistics:
+	nObstacleCells:  494574 nAccelCells:   18432 nFluidCells:  786994
+	minRho:   0.9475 maxRho:   1.0521 mass: 1.300000e+06
+	minU: 0.000000e+00 maxU: 2.097077e-02
+
+timestep: 128
+LBM_showGridStatistics:
+	nObstacleCells:  494574 nAccelCells:   18432 nFluidCells:  786994
+	minRho:   0.9276 maxRho:   1.0735 mass: 1.300000e+06
+	minU: 0.000000e+00 maxU: 2.876631e-02
+
+timestep: 192
+LBM_showGridStatistics:
+	nObstacleCells:  494574 nAccelCells:   18432 nFluidCells:  786994
+	minRho:   0.9211 maxRho:   1.0814 mass: 1.300000e+06
+	minU: 0.000000e+00 maxU: 3.174158e-02
+
+timestep: 256
+LBM_showGridStatistics:
+	nObstacleCells:  494574 nAccelCells:   18432 nFluidCells:  786994
+	minRho:   0.9186 maxRho:   1.0847 mass: 1.300000e+06
+	minU: 0.000000e+00 maxU: 3.243334e-02
+
+LBM_showGridStatistics:
+	nObstacleCells:  494574 nAccelCells:   18432 nFluidCells:  786994
+	minRho:   0.9179 maxRho:   1.0856 mass: 1.300000e+06
+	minU: 0.000000e+00 maxU: 3.274904e-02
+

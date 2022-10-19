@@ -1,0 +1,1 @@
+-o leng100.out -e leng100.err ./hmmer_base.amd64-m64-gcc42-nn --fixed 0 --mean 425 --num 85000 --sd 300 --seed 0 leng100.hmm

@@ -1,0 +1,1 @@
+-c /various/SPEC-CPU-2016/SPEC_CPU2006v1.1/benchspec/CPU2006/459.GemsFDTD/run/run_base_train_amd64-m64-gcc42-nn.0000 -o sphere_td.nft.cmp specperl /various/SPEC-CPU-2016/SPEC_CPU2006v1.1/bin/specdiff -m -l 10  --abstol 1e-10  --reltol 1e-09  --obiwan /various/SPEC-CPU-2016/SPEC_CPU2006v1.1/benchspec/CPU2006/459.GemsFDTD/data/train/output/sphere_td.nft sphere_td.nft

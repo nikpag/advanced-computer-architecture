@@ -1,0 +1,1 @@
+-c /various/SPEC-CPU-2016/SPEC_CPU2006v1.1/benchspec/CPU2006/434.zeusmp/run/run_base_train_amd64-m64-gcc42-nn.0000 -o tsl000aa.cmp specperl /various/SPEC-CPU-2016/SPEC_CPU2006v1.1/bin/specdiff -m -l 10  --abstol 0.001  --reltol 0.001 /various/SPEC-CPU-2016/SPEC_CPU2006v1.1/benchspec/CPU2006/434.zeusmp/data/train/output/tsl000aa tsl000aa

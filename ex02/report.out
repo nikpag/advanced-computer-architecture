@@ -1,0 +1,98 @@
+\BOOKMARK [1][-]{section.1}{Εισαγωγή}{}% 1
+\BOOKMARK [1][-]{section.2}{PINTOOL}{}% 2
+\BOOKMARK [1][-]{section.3}{Μετροπρογράμματα}{}% 3
+\BOOKMARK [1][-]{section.4}{Πειραματική αξιολόγηση}{}% 4
+\BOOKMARK [2][-]{subsection.4.1}{Μελέτη εντολών άλματος}{section.4}% 5
+\BOOKMARK [3][-]{subsubsection.4.1.1}{403.gcc}{subsection.4.1}% 6
+\BOOKMARK [3][-]{subsubsection.4.1.2}{429.mcf}{subsection.4.1}% 7
+\BOOKMARK [3][-]{subsubsection.4.1.3}{434.zeusmp}{subsection.4.1}% 8
+\BOOKMARK [3][-]{subsubsection.4.1.4}{436.cactusADM}{subsection.4.1}% 9
+\BOOKMARK [3][-]{subsubsection.4.1.5}{445.gobmk}{subsection.4.1}% 10
+\BOOKMARK [3][-]{subsubsection.4.1.6}{450.soplex}{subsection.4.1}% 11
+\BOOKMARK [3][-]{subsubsection.4.1.7}{456.hmmer}{subsection.4.1}% 12
+\BOOKMARK [3][-]{subsubsection.4.1.8}{458.sjeng}{subsection.4.1}% 13
+\BOOKMARK [3][-]{subsubsection.4.1.9}{459.GemsFDTD}{subsection.4.1}% 14
+\BOOKMARK [3][-]{subsubsection.4.1.10}{462.libquantum}{subsection.4.1}% 15
+\BOOKMARK [3][-]{subsubsection.4.1.11}{470.lbm}{subsection.4.1}% 16
+\BOOKMARK [3][-]{subsubsection.4.1.12}{471.omnetpp}{subsection.4.1}% 17
+\BOOKMARK [3][-]{subsubsection.4.1.13}{473.astar}{subsection.4.1}% 18
+\BOOKMARK [3][-]{subsubsection.4.1.14}{483.xalancbmk}{subsection.4.1}% 19
+\BOOKMARK [2][-]{subsection.4.2}{Μελέτη των N-bit predictors}{section.4}% 20
+\BOOKMARK [3][-]{subsubsection.4.2.1}{403.gcc}{subsection.4.2}% 21
+\BOOKMARK [3][-]{subsubsection.4.2.2}{429.mcf}{subsection.4.2}% 22
+\BOOKMARK [3][-]{subsubsection.4.2.3}{434.zeusmp}{subsection.4.2}% 23
+\BOOKMARK [3][-]{subsubsection.4.2.4}{436.cactusADM}{subsection.4.2}% 24
+\BOOKMARK [3][-]{subsubsection.4.2.5}{445.gobmk}{subsection.4.2}% 25
+\BOOKMARK [3][-]{subsubsection.4.2.6}{450.soplex}{subsection.4.2}% 26
+\BOOKMARK [3][-]{subsubsection.4.2.7}{456.hmmer}{subsection.4.2}% 27
+\BOOKMARK [3][-]{subsubsection.4.2.8}{458.sjeng}{subsection.4.2}% 28
+\BOOKMARK [3][-]{subsubsection.4.2.9}{459.GemsFDTD}{subsection.4.2}% 29
+\BOOKMARK [3][-]{subsubsection.4.2.10}{462.libquantum}{subsection.4.2}% 30
+\BOOKMARK [3][-]{subsubsection.4.2.11}{470.lbm}{subsection.4.2}% 31
+\BOOKMARK [3][-]{subsubsection.4.2.12}{471.omnetpp}{subsection.4.2}% 32
+\BOOKMARK [3][-]{subsubsection.4.2.13}{473.astar}{subsection.4.2}% 33
+\BOOKMARK [3][-]{subsubsection.4.2.14}{483.xalancbmk}{subsection.4.2}% 34
+\BOOKMARK [3][-]{subsubsection.4.2.15}{Γεωμετρικός μέσος των benchmarks}{subsection.4.2}% 35
+\BOOKMARK [3][-]{subsubsection.4.2.16}{403.gcc}{subsection.4.2}% 36
+\BOOKMARK [3][-]{subsubsection.4.2.17}{429.mcf}{subsection.4.2}% 37
+\BOOKMARK [3][-]{subsubsection.4.2.18}{434.zeusmp}{subsection.4.2}% 38
+\BOOKMARK [3][-]{subsubsection.4.2.19}{436.cactusADM}{subsection.4.2}% 39
+\BOOKMARK [3][-]{subsubsection.4.2.20}{445.gobmk}{subsection.4.2}% 40
+\BOOKMARK [3][-]{subsubsection.4.2.21}{450.soplex}{subsection.4.2}% 41
+\BOOKMARK [3][-]{subsubsection.4.2.22}{456.hmmer}{subsection.4.2}% 42
+\BOOKMARK [3][-]{subsubsection.4.2.23}{458.sjeng}{subsection.4.2}% 43
+\BOOKMARK [3][-]{subsubsection.4.2.24}{459.GemsFDTD}{subsection.4.2}% 44
+\BOOKMARK [3][-]{subsubsection.4.2.25}{462.libquantum}{subsection.4.2}% 45
+\BOOKMARK [3][-]{subsubsection.4.2.26}{470.lbm}{subsection.4.2}% 46
+\BOOKMARK [3][-]{subsubsection.4.2.27}{471.omnetpp}{subsection.4.2}% 47
+\BOOKMARK [3][-]{subsubsection.4.2.28}{473.astar}{subsection.4.2}% 48
+\BOOKMARK [3][-]{subsubsection.4.2.29}{483.xalancbmk}{subsection.4.2}% 49
+\BOOKMARK [3][-]{subsubsection.4.2.30}{Γεωμετρικός μέσος των benchmarks}{subsection.4.2}% 50
+\BOOKMARK [2][-]{subsection.4.3}{Μελέτη του BTB}{section.4}% 51
+\BOOKMARK [3][-]{subsubsection.4.3.1}{403.gcc}{subsection.4.3}% 52
+\BOOKMARK [3][-]{subsubsection.4.3.2}{429.mcf}{subsection.4.3}% 53
+\BOOKMARK [3][-]{subsubsection.4.3.3}{434.zeusmp}{subsection.4.3}% 54
+\BOOKMARK [3][-]{subsubsection.4.3.4}{436.cactusADM}{subsection.4.3}% 55
+\BOOKMARK [3][-]{subsubsection.4.3.5}{445.gobmk}{subsection.4.3}% 56
+\BOOKMARK [3][-]{subsubsection.4.3.6}{450.soplex}{subsection.4.3}% 57
+\BOOKMARK [3][-]{subsubsection.4.3.7}{456.hmmer}{subsection.4.3}% 58
+\BOOKMARK [3][-]{subsubsection.4.3.8}{458.sjeng}{subsection.4.3}% 59
+\BOOKMARK [3][-]{subsubsection.4.3.9}{459.GemsFDTD}{subsection.4.3}% 60
+\BOOKMARK [3][-]{subsubsection.4.3.10}{462.libquantum}{subsection.4.3}% 61
+\BOOKMARK [3][-]{subsubsection.4.3.11}{470.lbm}{subsection.4.3}% 62
+\BOOKMARK [3][-]{subsubsection.4.3.12}{471.omnetpp}{subsection.4.3}% 63
+\BOOKMARK [3][-]{subsubsection.4.3.13}{473.astar}{subsection.4.3}% 64
+\BOOKMARK [3][-]{subsubsection.4.3.14}{483.xalancbmk}{subsection.4.3}% 65
+\BOOKMARK [3][-]{subsubsection.4.3.15}{Γεωμετρικός μέσος των benchmarks}{subsection.4.3}% 66
+\BOOKMARK [2][-]{subsection.4.4}{Μελέτη του RAS}{section.4}% 67
+\BOOKMARK [3][-]{subsubsection.4.4.1}{403.gcc}{subsection.4.4}% 68
+\BOOKMARK [3][-]{subsubsection.4.4.2}{429.mcf}{subsection.4.4}% 69
+\BOOKMARK [3][-]{subsubsection.4.4.3}{434.zeusmp}{subsection.4.4}% 70
+\BOOKMARK [3][-]{subsubsection.4.4.4}{436.cactusADM}{subsection.4.4}% 71
+\BOOKMARK [3][-]{subsubsection.4.4.5}{445.gobmk}{subsection.4.4}% 72
+\BOOKMARK [3][-]{subsubsection.4.4.6}{450.soplex}{subsection.4.4}% 73
+\BOOKMARK [3][-]{subsubsection.4.4.7}{456.hmmer}{subsection.4.4}% 74
+\BOOKMARK [3][-]{subsubsection.4.4.8}{458.sjeng}{subsection.4.4}% 75
+\BOOKMARK [3][-]{subsubsection.4.4.9}{459.GemsFDTD}{subsection.4.4}% 76
+\BOOKMARK [3][-]{subsubsection.4.4.10}{462.libquantum}{subsection.4.4}% 77
+\BOOKMARK [3][-]{subsubsection.4.4.11}{470.lbm}{subsection.4.4}% 78
+\BOOKMARK [3][-]{subsubsection.4.4.12}{471.omnetpp}{subsection.4.4}% 79
+\BOOKMARK [3][-]{subsubsection.4.4.13}{473.astar}{subsection.4.4}% 80
+\BOOKMARK [3][-]{subsubsection.4.4.14}{483.xalancbmk}{subsection.4.4}% 81
+\BOOKMARK [3][-]{subsubsection.4.4.15}{Γεωμετρικός μέσος των benchmarks}{subsection.4.4}% 82
+\BOOKMARK [2][-]{subsection.4.5}{Σύγκριση διαφορετικών predictors}{section.4}% 83
+\BOOKMARK [3][-]{subsubsection.4.5.1}{403.gcc}{subsection.4.5}% 84
+\BOOKMARK [3][-]{subsubsection.4.5.2}{429.mcf}{subsection.4.5}% 85
+\BOOKMARK [3][-]{subsubsection.4.5.3}{434.zeusmp}{subsection.4.5}% 86
+\BOOKMARK [3][-]{subsubsection.4.5.4}{436.cactusADM}{subsection.4.5}% 87
+\BOOKMARK [3][-]{subsubsection.4.5.5}{445.gobmk}{subsection.4.5}% 88
+\BOOKMARK [3][-]{subsubsection.4.5.6}{450.soplex}{subsection.4.5}% 89
+\BOOKMARK [3][-]{subsubsection.4.5.7}{456.hmmer}{subsection.4.5}% 90
+\BOOKMARK [3][-]{subsubsection.4.5.8}{458.sjeng}{subsection.4.5}% 91
+\BOOKMARK [3][-]{subsubsection.4.5.9}{459.GemsFDTD}{subsection.4.5}% 92
+\BOOKMARK [3][-]{subsubsection.4.5.10}{462.libquantum}{subsection.4.5}% 93
+\BOOKMARK [3][-]{subsubsection.4.5.11}{470.lbm}{subsection.4.5}% 94
+\BOOKMARK [3][-]{subsubsection.4.5.12}{471.omnetpp}{subsection.4.5}% 95
+\BOOKMARK [3][-]{subsubsection.4.5.13}{473.astar}{subsection.4.5}% 96
+\BOOKMARK [3][-]{subsubsection.4.5.14}{483.xalancbmk}{subsection.4.5}% 97
+\BOOKMARK [3][-]{subsubsection.4.5.15}{Γεωμετρικός μέσος των benchmarks}{subsection.4.5}% 98

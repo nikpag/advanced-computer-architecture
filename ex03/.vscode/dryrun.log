@@ -1,0 +1,6 @@
+make --dry-run --keep-going --print-directory
+make: Entering directory '/home/nick/arch-ntua/ex03'
+make: Leaving directory '/home/nick/arch-ntua/ex03'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+

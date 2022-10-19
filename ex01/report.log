@@ -1,0 +1,1221 @@
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2022.4.13)  23 MAY 2022 10:49
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**report.tex
+(./report.tex
+LaTeX2e <2020-02-02> patch level 2
+L3 programming layer <2020-02-14>
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count163
+\c@section=\count164
+\c@subsection=\count165
+\c@subsubsection=\count166
+\c@paragraph=\count167
+\c@subparagraph=\count168
+\c@figure=\count169
+\c@table=\count170
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+)
+(/home/nick/xelatex.tex
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 105.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/xetex.def
+File: xetex.def 2017/06/24 v5.0h Graphics/color driver for xetex
+))
+\Gin@req@height=\dimen135
+\Gin@req@width=\dimen136
+)
+(/usr/share/texlive/texmf-dist/tex/latex/placeins/placeins.sty
+Package: placeins 2005/04/18  v 2.2
+)
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count171
+\float@exts=\toks15
+\float@box=\box45
+\@float@everytoks=\toks16
+\@floatcapt=\box46
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2020/01/20 v2.17e AMS math features
+\@mathmargin=\skip49
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks17
+\ex@=\dimen137
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen138
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count172
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count173
+\leftroot@=\count174
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count175
+\DOTSCASE@=\count176
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box47
+\strutbox@=\box48
+\big@size=\dimen139
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count177
+\c@MaxMatrixCols=\count178
+\dotsspace@=\muskip16
+\c@parentequation=\count179
+\dspbrk@lvl=\count180
+\tag@help=\toks18
+\row@=\count181
+\column@=\count182
+\maxfields@=\count183
+\andhelp@=\toks19
+\eqnshift@=\dimen140
+\alignsep@=\dimen141
+\tagshift@=\dimen142
+\tagwidth@=\dimen143
+\totwidth@=\dimen144
+\lineht@=\dimen145
+\@envbody=\toks20
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks21
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count184
+\lst@gtempboxa=\box49
+\lst@token=\toks22
+\lst@length=\count185
+\lst@currlwidth=\dimen146
+\lst@column=\count186
+\lst@pos=\count187
+\lst@lostspace=\dimen147
+\lst@width=\dimen148
+\lst@newlines=\count188
+\lst@lineno=\count189
+\lst@maxwidth=\dimen149
+
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2019/09/10 1.8c (Carsten Heinz)
+\c@lstnumber=\count190
+\lst@skipnumbers=\count191
+\lst@framebox=\box50
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2019/09/10 1.8c listings configuration
+))
+Package: listings 2019/09/10 1.8c (Carsten Heinz)
+
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: xetex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/extarrows/extarrows.sty
+Package: extarrows 2008/05/15 v1.0b Some extensible arrows
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2019/11/10 v1.5r LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks23
+\verbatim@line=\toks24
+\verbatim@in@stream=\read2
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/enumerate.sty
+Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
+\@enLab=\toks25
+)
+(/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip52
+\enit@outerparindent=\dimen150
+\enit@toks=\toks26
+\enit@inbox=\box51
+\enit@count@id=\count192
+\enitdp@description=\count193
+)
+(/usr/share/texlive/texmf-dist/tex/latex/eurosym/eurosym.sty
+Package: eurosym 1998/08/06 v1.1 European currency symbol ``Euro''
+\@eurobox=\box52
+)
+(/usr/share/texlive/texmf-dist/tex/latex/svg/svg.sty
+Package: svg 2020/01/13 v2.02e (include SVG pictures)
+
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2019/11/07 v1.0c TeX engine tests
+)
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrbase.sty
+Package: scrbase 2020/01/24 v3.29 KOMA-Script package (KOMA-Script-independent 
+basics and keyval usage)
+
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlfile.sty
+Package: scrlfile 2020/01/24 v3.29 KOMA-Script package (loading files)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode not found.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/shellesc.sty
+Package: shellesc 2019/11/08 v1.0c unified shell escape interface for LaTeX
+Package shellesc Info: Restricted shell escape enabled on input line 77.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/trimspaces/trimspaces.sty
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
+)
+\svg@box=\box53
+\c@svg@param@lastpage=\count194
+\c@svg@param@currpage=\count195
+)
+(/usr/share/texlive/texmf-dist/tex/latex/transparent/transparent.sty
+Package: transparent 2019/11/29 v1.4 Transparency via pdfTeX's color stack (HO)
+
+
+
+Package transparent Warning: Loading aborted, because pdfTeX is not running in 
+PDF mode.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/varwidth/varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box54
+\sift@deathcycles=\count196
+\@vwid@loff=\dimen151
+\@vwid@roff=\dimen152
+)
+(/usr/share/texlive/texmf-dist/tex/latex/moreverb/moreverb.sty
+Package: moreverb 2008/06/03 v2.3a `more' verbatim facilities
+\tab@position=\count197
+\tab@size=\count198
+\listing@line=\count199
+)
+(/usr/share/texlive/texmf-dist/tex/latex/relsize/relsize.sty
+Package: relsize 2013/03/29 ver 4.1
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tabto-ltx/tabto.sty
+Package: tabto 2018/12/28  v 1.4  Another tabbing mechanism
+\CurrentLineWidth=\dimen153
+\TabPrevPos=\dimen154
+)
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count266
+\Gm@cntv=\count267
+\c@Gm@tempcnt=\count268
+\Gm@bindingoffset=\dimen155
+\Gm@wd@mp=\dimen156
+\Gm@odd@mp=\dimen157
+\Gm@even@mp=\dimen158
+\Gm@layoutwidth=\dimen159
+\Gm@layoutheight=\dimen160
+\Gm@layouthoffset=\dimen161
+\Gm@layoutvoffset=\dimen162
+\Gm@dimlist=\toks27
+)
+(/usr/share/texlive/texmf-dist/tex/generic/ulem/ulem.sty
+\UL@box=\box55
+\UL@hyphenbox=\box56
+\UL@skip=\skip53
+\UL@hook=\toks28
+\UL@height=\dimen163
+\UL@pe=\count269
+\UL@pixel=\dimen164
+\ULC@box=\box57
+Package: ulem 2019/11/18
+\ULdepth=\dimen165
+)
+(/usr/share/texlive/texmf-dist/tex/latex/units/units.sty
+Package: units 1998/08/04 v0.9b Typesetting units
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/units/nicefrac.sty
+Package: nicefrac 1998/08/04 v0.9b Nice fractions
+\L@UnitsRaiseDisplaystyle=\skip54
+\L@UnitsRaiseTextstyle=\skip55
+\L@UnitsRaiseScriptstyle=\skip56
+))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2020/01/14 v7.00d Hypertext links for LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+)
+\@linkdim=\dimen166
+\Hy@linkcounter=\count270
+\Hy@pagecounter=\count271
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2020/01/14 v7.00d Hyperref: PDFDocEncoding definition (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count272
+Package hyperref Info: Hyper figures OFF on input line 4547.
+Package hyperref Info: Link nesting OFF on input line 4552.
+Package hyperref Info: Hyper index ON on input line 4555.
+Package hyperref Info: Plain pages OFF on input line 4562.
+Package hyperref Info: Backreferencing OFF on input line 4567.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4800.
+\c@Hy@tempcnt=\count273
+
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5159.
+\XeTeXLinkMargin=\dimen167
+
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count274
+\Field@Width=\dimen168
+\Fld@charsize=\dimen169
+Package hyperref Info: Hyper figures OFF on input line 6430.
+Package hyperref Info: Link nesting OFF on input line 6435.
+Package hyperref Info: Hyper index ON on input line 6438.
+Package hyperref Info: backreferencing OFF on input line 6445.
+Package hyperref Info: Link coloring OFF on input line 6450.
+Package hyperref Info: Link coloring with OCG OFF on input line 6455.
+Package hyperref Info: PDF/A mode OFF on input line 6460.
+LaTeX Info: Redefining \ref on input line 6500.
+LaTeX Info: Redefining \pageref on input line 6504.
+
+(/usr/share/texlive/texmf-dist/tex/generic/atbegshi/atbegshi.sty
+Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
+)
+\Hy@abspage=\count275
+\c@Item=\count276
+\c@Hfootnote=\count277
+)
+Package hyperref Info: Driver (autodetected): hxetex.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hxetex.def
+File: hxetex.def 2020/01/14 v7.00d Hyperref driver for XeTeX
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2020/01/14 v7.00d Hyperref: PDF Unicode definition (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/stringenc/stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
+)
+)
+\pdfm@box=\box58
+\c@Hy@AnnotLevel=\count278
+\HyField@AnnotCount=\count279
+\Fld@listcount=\count280
+\c@bookmark@seq@number=\count281
+
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+(/usr/share/texlive/texmf-dist/tex/latex/atveryend/atveryend.sty
+Package: atveryend 2019-12-11 v1.11 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+)
+(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip57
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fancyvrb/fancyvrb.sty
+Package: fancyvrb 2020/01/13 v3.5 verbatim text (tvz,hv)
+\FV@CodeLineNo=\count282
+\FV@InFile=\read3
+\FV@TabBox=\box59
+\c@FancyVerbLine=\count283
+\FV@StepNumber=\count284
+\FV@OutFile=\write3
+)
+(/usr/share/texlive/texmf-dist/tex/latex/unicode-math/unicode-math.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2020-02-14 L3 programming layer (loader) 
+
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-xdvipdfmx.def
+File: l3backend-xdvipdfmx.def 2020-02-03 L3 backend support: xdvipdfmx
+\g__graphics_track_int=\count285
+\l__pdf_internal_box=\box60
+\g__pdf_backend_object_int=\count286
+\g__pdf_backend_annotation_int=\count287
+))
+Package: unicode-math 2020/01/31 v0.8q Unicode maths in XeLaTeX and LuaLaTeX
+
+(/usr/share/texlive/texmf-dist/tex/latex/unicode-math/unicode-math-xetex.sty
+Package: unicode-math-xetex 2020/01/31 v0.8q Unicode maths in XeLaTeX and LuaLa
+TeX
+
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2020-02-14 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count288
+\g__xparse_grabber_int=\count289
+\l__xparse_m_args_int=\count290
+\l__xparse_v_nesting_int=\count291
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+Package: l3keys2e 2020-02-14 LaTeX2e option processing using LaTeX3 keys
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty
+Package: fontspec 2020/02/03 v2.7h Font selection for XeLaTeX and LuaLaTeX
+
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+Package: fontspec-xetex 2020/02/03 v2.7h Font selection for XeLaTeX and LuaLaTe
+X
+\l__fontspec_script_int=\count292
+\l__fontspec_language_int=\count293
+\l__fontspec_strnum_int=\count294
+\l__fontspec_tmp_int=\count295
+\l__fontspec_tmpa_int=\count296
+\l__fontspec_tmpb_int=\count297
+\l__fontspec_tmpc_int=\count298
+\l__fontspec_em_int=\count299
+\l__fontspec_emdef_int=\count300
+\l__fontspec_strong_int=\count301
+\l__fontspec_strongdef_int=\count302
+\l__fontspec_tmpa_dim=\dimen170
+\l__fontspec_tmpb_dim=\dimen171
+\l__fontspec_tmpc_dim=\dimen172
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+(/usr/share/texlive/texmf-dist/tex/latex/base/fix-cm.sty
+Package: fix-cm 2015/01/14 v1.1t fixes to LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding TS1 on input line 47.
+))
+\g__um_fam_int=\count303
+\g__um_fonts_used_int=\count304
+\l__um_primecount_int=\count305
+\g__um_primekern_muskip=\muskip18
+
+(/usr/share/texlive/texmf-dist/tex/latex/unicode-math/unicode-math-table.tex)))
+)
+
+Package fontspec Info: Font family 'MinionPro(0)' created for font 'Minion
+(fontspec)             Pro' with options [Ligatures=TeX].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Minion
+(fontspec)             Pro/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: <->"Minion
+(fontspec)             Pro/OT:script=latn;language=dflt;+smcp;mapping=tex-text;
+"
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"Minion
+(fontspec)             Pro/B/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: <->"Minion
+(fontspec)             Pro/B/OT:script=latn;language=dflt;+smcp;mapping=tex-tex
+t;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.: <->"Minion
+(fontspec)             Pro/I/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->"Minion
+(fontspec)             Pro/I/OT:script=latn;language=dflt;+smcp;mapping=tex-tex
+t;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"Minion
+(fontspec)             Pro/BI/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->"Minion
+(fontspec)             Pro/BI/OT:script=latn;language=dflt;+smcp;mapping=tex-te
+xt;"
+
+
+Package fontspec Info: Font family 'MinionPro(1)' created for font 'Minion
+(fontspec)             Pro' with options [].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Minion
+(fontspec)             Pro/OT:script=latn;language=dflt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: <->"Minion
+(fontspec)             Pro/OT:script=latn;language=dflt;+smcp;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"Minion
+(fontspec)             Pro/B/OT:script=latn;language=dflt;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: <->"Minion
+(fontspec)             Pro/B/OT:script=latn;language=dflt;+smcp;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.: <->"Minion
+(fontspec)             Pro/I/OT:script=latn;language=dflt;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->"Minion Pro/I/OT:script=latn;language=dflt;+smcp;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"Minion
+(fontspec)             Pro/BI/OT:script=latn;language=dflt;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->"Minion Pro/BI/OT:script=latn;language=dflt;+smcp;"
+
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
+(Font)                  OT1/cmr/m/n --> TU/MinionPro(1)/m/n on input line 9.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> TU/MinionPro(1)/m/it on input line 9.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> TU/MinionPro(1)/bx/n on input line 9.
+ (./report.aux)
+\openout1 = `report.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+\c@lstlisting=\count306
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+*geometry* verbose mode - [ preamble ] result:
+* driver: xetex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.26999pt, 452.9679pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 700.50687pt, 72.26999pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=452.9679pt
+* \textheight=700.50687pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-37.0pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\AtBeginShipoutBox=\box61
+Package hyperref Info: Link coloring OFF on input line 19.
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
+
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count307
+)
+LaTeX Info: Redefining \ref on input line 19.
+LaTeX Info: Redefining \pageref on input line 19.
+LaTeX Info: Redefining \nameref on input line 19.
+
+(./report.out) (./report.out)
+\@outlinefile=\write4
+\openout4 = `report.out'.
+
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 19.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 19.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 19.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 19.
+
+Package fontspec Info: Font family 'latinmodern-math.otf(0)' created for font
+(fontspec)             'latinmodern-math.otf' with options
+(fontspec)             [BoldItalicFont={},ItalicFont={},SmallCapsFont={},Script
+=Math,BoldFont={latinmodern-math.otf}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[latinmodern-math.otf]/OT:script=math;language=dflt;
+"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"[latinmodern-math.otf]/OT:script=math;language=dflt;
+"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+
+
+Package fontspec Info: Font family 'latinmodern-math.otf(1)' created for font
+(fontspec)             'latinmodern-math.otf' with options
+(fontspec)             [BoldItalicFont={},ItalicFont={},SmallCapsFont={},Script
+=Math,SizeFeatures={{Size=10.2-},{Size=7.2-10.2,Font=latinmodern-math.otf,Style
+=MathScript},{Size=-7.2,Font=latinmodern-math.otf,Style=MathScriptScript}},Bold
+Font={latinmodern-math.otf}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <10.2->"[latinmodern-math.otf]/OT:script=math;language=d
+flt;"<7.2-10.2>"[latinmodern-math.otf]/OT:script=math;language=dflt;+ssty=0;"<-
+7.2>"[latinmodern-math.otf]/OT:script=math;language=dflt;+ssty=1;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"[latinmodern-math.otf]/OT:script=math;language=dflt;
+"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `normal' on input line 19.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> TU/latinmodern-math.otf(1)/m/n on input
+ line 19.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `bold' on input line 19.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> TU/latinmodern-math.otf(1)/b/n on inpu
+t line 19.
+
+Package fontspec Info: latinmodern-math scale = 1.0001.
+
+
+Package fontspec Info: latinmodern-math scale = 1.0001.
+
+
+Package fontspec Info: latinmodern-math scale = 1.0001.
+
+
+Package fontspec Info: latinmodern-math scale = 1.0001.
+
+
+Package fontspec Info: latinmodern-math scale = 1.0001.
+
+
+Package fontspec Info: Font family 'latinmodern-math.otf(2)' created for font
+(fontspec)             'latinmodern-math.otf' with options
+(fontspec)             [BoldItalicFont={},ItalicFont={},SmallCapsFont={},Script
+=Math,SizeFeatures={{Size=10.2-},{Size=7.2-10.2,Font=latinmodern-math.otf,Style
+=MathScript},{Size=-7.2,Font=latinmodern-math.otf,Style=MathScriptScript}},Bold
+Font={latinmodern-math.otf},ScaleAgain=1.0001,FontAdjustment={\fontdimen
+(fontspec)             8\font =8.124pt\relax \fontdimen 9\font =4.728pt\relax
+(fontspec)             \fontdimen 10\font =5.328pt\relax \fontdimen 11\font
+(fontspec)             =8.232pt\relax \fontdimen 12\font =4.14pt\relax
+(fontspec)             \fontdimen 13\font =4.356pt\relax \fontdimen 14\font
+(fontspec)             =4.356pt\relax \fontdimen 15\font =3.468pt\relax
+(fontspec)             \fontdimen 16\font =2.964pt\relax \fontdimen 17\font
+(fontspec)             =2.964pt\relax \fontdimen 18\font =3.0pt\relax
+(fontspec)             \fontdimen 19\font =2.4pt\relax \fontdimen 22\font
+(fontspec)             =3.0pt\relax \fontdimen 20\font =0pt\relax \fontdimen
+(fontspec)             21\font =0pt\relax }].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <10.2->s*[1.0001]"[latinmodern-math.otf]/OT:script=math;
+language=dflt;"<7.2-10.2>s*[1.0001]"[latinmodern-math.otf]/OT:script=math;langu
+age=dflt;+ssty=0;"<-7.2>s*[1.0001]"[latinmodern-math.otf]/OT:script=math;langua
+ge=dflt;+ssty=1;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             and font adjustment code:
+(fontspec)             \fontdimen 8\font =8.124pt\relax \fontdimen 9\font
+(fontspec)             =4.728pt\relax \fontdimen 10\font =5.328pt\relax
+(fontspec)             \fontdimen 11\font =8.232pt\relax \fontdimen 12\font
+(fontspec)             =4.14pt\relax \fontdimen 13\font =4.356pt\relax
+(fontspec)             \fontdimen 14\font =4.356pt\relax \fontdimen 15\font
+(fontspec)             =3.468pt\relax \fontdimen 16\font =2.964pt\relax
+(fontspec)             \fontdimen 17\font =2.964pt\relax \fontdimen 18\font
+(fontspec)             =3.0pt\relax \fontdimen 19\font =2.4pt\relax \fontdimen
+(fontspec)             22\font =3.0pt\relax \fontdimen 20\font =0pt\relax
+(fontspec)             \fontdimen 21\font =0pt\relax 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[1.0001]"[latinmodern-math.otf]/OT:script=math;lang
+uage=dflt;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             and font adjustment code:
+(fontspec)             \fontdimen 8\font =8.124pt\relax \fontdimen 9\font
+(fontspec)             =4.728pt\relax \fontdimen 10\font =5.328pt\relax
+(fontspec)             \fontdimen 11\font =8.232pt\relax \fontdimen 12\font
+(fontspec)             =4.14pt\relax \fontdimen 13\font =4.356pt\relax
+(fontspec)             \fontdimen 14\font =4.356pt\relax \fontdimen 15\font
+(fontspec)             =3.468pt\relax \fontdimen 16\font =2.964pt\relax
+(fontspec)             \fontdimen 17\font =2.964pt\relax \fontdimen 18\font
+(fontspec)             =3.0pt\relax \fontdimen 19\font =2.4pt\relax \fontdimen
+(fontspec)             22\font =3.0pt\relax \fontdimen 20\font =0pt\relax
+(fontspec)             \fontdimen 21\font =0pt\relax 
+
+LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
+(Font)              `symbols' in the math version `normal' on input line 19.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> TU/latinmodern-math.otf(2)/m/n on inpu
+t line 19.
+LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
+(Font)              `symbols' in the math version `bold' on input line 19.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> TU/latinmodern-math.otf(2)/b/n on inpu
+t line 19.
+
+Package fontspec Info: latinmodern-math scale = 0.9999.
+
+
+Package fontspec Info: latinmodern-math scale = 0.9999.
+
+
+Package fontspec Info: latinmodern-math scale = 0.9999.
+
+
+Package fontspec Info: latinmodern-math scale = 0.9999.
+
+
+Package fontspec Info: latinmodern-math scale = 0.9999.
+
+
+Package fontspec Info: Font family 'latinmodern-math.otf(3)' created for font
+(fontspec)             'latinmodern-math.otf' with options
+(fontspec)             [BoldItalicFont={},ItalicFont={},SmallCapsFont={},Script
+=Math,SizeFeatures={{Size=10.2-},{Size=7.2-10.2,Font=latinmodern-math.otf,Style
+=MathScript},{Size=-7.2,Font=latinmodern-math.otf,Style=MathScriptScript}},Bold
+Font={latinmodern-math.otf},ScaleAgain=0.9999,FontAdjustment={\fontdimen
+(fontspec)             8\font =0.48pt\relax \fontdimen 9\font =2.4pt\relax
+(fontspec)             \fontdimen 10\font =2.004pt\relax \fontdimen 11\font
+(fontspec)             =1.332pt\relax \fontdimen 12\font =7.2pt\relax
+(fontspec)             \fontdimen 13\font =0pt\relax }].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <10.2->s*[0.9999]"[latinmodern-math.otf]/OT:script=math;
+language=dflt;"<7.2-10.2>s*[0.9999]"[latinmodern-math.otf]/OT:script=math;langu
+age=dflt;+ssty=0;"<-7.2>s*[0.9999]"[latinmodern-math.otf]/OT:script=math;langua
+ge=dflt;+ssty=1;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             and font adjustment code:
+(fontspec)             \fontdimen 8\font =0.48pt\relax \fontdimen 9\font
+(fontspec)             =2.4pt\relax \fontdimen 10\font =2.004pt\relax
+(fontspec)             \fontdimen 11\font =1.332pt\relax \fontdimen 12\font
+(fontspec)             =7.2pt\relax \fontdimen 13\font =0pt\relax 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[0.9999]"[latinmodern-math.otf]/OT:script=math;lang
+uage=dflt;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             and font adjustment code:
+(fontspec)             \fontdimen 8\font =0.48pt\relax \fontdimen 9\font
+(fontspec)             =2.4pt\relax \fontdimen 10\font =2.004pt\relax
+(fontspec)             \fontdimen 11\font =1.332pt\relax \fontdimen 12\font
+(fontspec)             =7.2pt\relax \fontdimen 13\font =0pt\relax 
+
+LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
+(Font)              `largesymbols' in the math version `normal' on input line 1
+9.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> TU/latinmodern-math.otf(3)/m/n on inpu
+t line 19.
+LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
+(Font)              `largesymbols' in the math version `bold' on input line 19.
+
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> TU/latinmodern-math.otf(3)/b/n on inpu
+t line 19.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 14.40152pt on input line 21.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 10.00107pt on input line 21.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 7.00075pt on input line 21.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 14.39845pt on input line 21.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 9.99893pt on input line 21.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 6.99925pt on input line 21.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 21.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 21.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+(/usr/share/texlive/texmf-dist/tex/generic/stringenc/se-ascii-print.def
+File: se-ascii-print.def 2019/11/29 v1.12 stringenc: Printable ASCII characters
+
+)
+Overfull \hbox (1.62027pt too wide) in paragraph at lines 35--36
+\TU/MinionPro(0)/m/n/12 της L2 cache και του TLB. Αρχικά θα κάνουμε την υπόθεση
+ ότι ο κύκλος ρολογιού είναι σταθερός
+ []
+
+[1
+
+]
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 12.00128pt on input line 69.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 8.40088pt on input line 69.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 6.00064pt on input line 69.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 11.99872pt on input line 69.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 8.3991pt on input line 69.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 5.99936pt on input line 69.
+File: parsec-3.0/parsec_workspace/graphs/L1_blackscholes.png Graphic file (type
+ bmp)
+<parsec-3.0/parsec_workspace/graphs/L1_blackscholes.png>
+ [2]
+File: parsec-3.0/parsec_workspace/graphs/L1_bodytrack.png Graphic file (type bm
+p)
+<parsec-3.0/parsec_workspace/graphs/L1_bodytrack.png>
+ [3]
+File: parsec-3.0/parsec_workspace/graphs/L1_canneal.png Graphic file (type bmp)
+
+<parsec-3.0/parsec_workspace/graphs/L1_canneal.png>
+ [4]
+File: parsec-3.0/parsec_workspace/graphs/L1_fluidanimate.png Graphic file (type
+ bmp)
+<parsec-3.0/parsec_workspace/graphs/L1_fluidanimate.png>
+ [5]
+File: parsec-3.0/parsec_workspace/graphs/L1_freqmine.png Graphic file (type bmp
+)
+<parsec-3.0/parsec_workspace/graphs/L1_freqmine.png>
+ [6]
+File: parsec-3.0/parsec_workspace/graphs/L1_rtview.png Graphic file (type bmp)
+<parsec-3.0/parsec_workspace/graphs/L1_rtview.png>
+ [7]
+File: parsec-3.0/parsec_workspace/graphs/L1_streamcluster.png Graphic file (typ
+e bmp)
+<parsec-3.0/parsec_workspace/graphs/L1_streamcluster.png>
+ [8]
+File: parsec-3.0/parsec_workspace/graphs/L1_swaptions.png Graphic file (type bm
+p)
+<parsec-3.0/parsec_workspace/graphs/L1_swaptions.png>
+ [9]
+Overfull \hbox (28.44745pt too wide) in paragraph at lines 154--155
+\TU/MinionPro(0)/m/n/12 marks, το οποίο είναι λογικό, αφού οι έννοιες του speed
+up και του slowdown είναι πολλαπλασιαστικής
+ []
+
+
+Overfull \hbox (5.90515pt too wide) in paragraph at lines 154--155
+\TU/MinionPro(0)/m/n/12 μέσο $[][] [] [][][][][][] [] [][][][]$, το οποίο δεν ε
+ίναι αντιπροσωπευτικό αποτέλεσμα με βάση τη διαίσθησή
+ []
+
+File: parsec-3.0/parsec_workspace/graphs/L1_geoavg.png Graphic file (type bmp)
+<parsec-3.0/parsec_workspace/graphs/L1_geoavg.png>
+[10]
+Overfull \hbox (12.39304pt too wide) in paragraph at lines 165--166
+\TU/MinionPro(0)/m/n/12 αυξάνει, το άλλο μειώνεται), αφού όσο πιο πολλά misses 
+παρατηρούνται, τόσο περισσότεροι
+ []
+
+
+Overfull \hbox (14.84105pt too wide) in paragraph at lines 172--173
+[]\TU/MinionPro(0)/m/n/12 Στα benchmarks bodytrack, canneal, fluidanimate, stre
+amcluster και swaptions παρατηρούμε
+ []
+
+[11]
+File: parsec-3.0/parsec_workspace/graphs/L2_blackscholes.png Graphic file (type
+ bmp)
+<parsec-3.0/parsec_workspace/graphs/L2_blackscholes.png>
+ [12]
+File: parsec-3.0/parsec_workspace/graphs/L2_bodytrack.png Graphic file (type bm
+p)
+<parsec-3.0/parsec_workspace/graphs/L2_bodytrack.png>
+ [13]
+File: parsec-3.0/parsec_workspace/graphs/L2_canneal.png Graphic file (type bmp)
+
+<parsec-3.0/parsec_workspace/graphs/L2_canneal.png>
+ [14]
+File: parsec-3.0/parsec_workspace/graphs/L2_fluidanimate.png Graphic file (type
+ bmp)
+<parsec-3.0/parsec_workspace/graphs/L2_fluidanimate.png>
+ [15]
+File: parsec-3.0/parsec_workspace/graphs/L2_freqmine.png Graphic file (type bmp
+)
+<parsec-3.0/parsec_workspace/graphs/L2_freqmine.png>
+ [16]
+File: parsec-3.0/parsec_workspace/graphs/L2_rtview.png Graphic file (type bmp)
+<parsec-3.0/parsec_workspace/graphs/L2_rtview.png>
+ [17]
+File: parsec-3.0/parsec_workspace/graphs/L2_streamcluster.png Graphic file (typ
+e bmp)
+<parsec-3.0/parsec_workspace/graphs/L2_streamcluster.png>
+ [18]
+File: parsec-3.0/parsec_workspace/graphs/L2_swaptions.png Graphic file (type bm
+p)
+<parsec-3.0/parsec_workspace/graphs/L2_swaptions.png>
+ [19]
+File: parsec-3.0/parsec_workspace/graphs/L2_geoavg.png Graphic file (type bmp)
+<parsec-3.0/parsec_workspace/graphs/L2_geoavg.png>
+ [20]
+Overfull \hbox (16.98894pt too wide) in paragraph at lines 300--301
+[]\TU/MinionPro(0)/m/n/12 Στο blackscholes, φαίνεται ότι για cache size 1024K έ
+χουμε σημαντική βελτίωση της επίδοσης,
+ []
+
+
+Overfull \hbox (31.35225pt too wide) in paragraph at lines 302--303
+[]\TU/MinionPro(0)/m/n/12 Το swaptions φαίνεται να μην επηρεάζεται σχεδόν καθόλ
+ου από τις αλλαγές στα χαρακτηριστικά
+ []
+
+[21]
+File: parsec-3.0/parsec_workspace/graphs/TLB_blackscholes.png Graphic file (typ
+e bmp)
+<parsec-3.0/parsec_workspace/graphs/TLB_blackscholes.png>
+ [22]
+File: parsec-3.0/parsec_workspace/graphs/TLB_bodytrack.png Graphic file (type b
+mp)
+<parsec-3.0/parsec_workspace/graphs/TLB_bodytrack.png>
+ [23]
+File: parsec-3.0/parsec_workspace/graphs/TLB_canneal.png Graphic file (type bmp
+)
+<parsec-3.0/parsec_workspace/graphs/TLB_canneal.png>
+ [24]
+File: parsec-3.0/parsec_workspace/graphs/TLB_fluidanimate.png Graphic file (typ
+e bmp)
+<parsec-3.0/parsec_workspace/graphs/TLB_fluidanimate.png>
+ [25]
+File: parsec-3.0/parsec_workspace/graphs/TLB_freqmine.png Graphic file (type bm
+p)
+<parsec-3.0/parsec_workspace/graphs/TLB_freqmine.png>
+ [26]
+File: parsec-3.0/parsec_workspace/graphs/TLB_rtview.png Graphic file (type bmp)
+
+<parsec-3.0/parsec_workspace/graphs/TLB_rtview.png>
+ [27]
+File: parsec-3.0/parsec_workspace/graphs/TLB_streamcluster.png Graphic file (ty
+pe bmp)
+<parsec-3.0/parsec_workspace/graphs/TLB_streamcluster.png>
+ [28]
+File: parsec-3.0/parsec_workspace/graphs/TLB_swaptions.png Graphic file (type b
+mp)
+<parsec-3.0/parsec_workspace/graphs/TLB_swaptions.png>
+ [29]
+File: parsec-3.0/parsec_workspace/graphs/TLB_geoavg.png Graphic file (type bmp)
+
+<parsec-3.0/parsec_workspace/graphs/TLB_geoavg.png>
+ [30]
+Overfull \hbox (4.36981pt too wide) in paragraph at lines 420--421
+\TU/MinionPro(0)/m/n/12 να επιλέξουμε το 8, αν μεγαλύτερο associativity σημαίνε
+ι μεγαλύτερο κόστος κατασκευής). 
+ []
+
+
+Overfull \hbox (11.52986pt too wide) in paragraph at lines 423--424
+[]\TU/MinionPro(0)/m/n/12 Το page size δεν μπορεί να αξιολογηθεί από τα παραπάν
+ω, αφού είναι σε όλες τις περιπτώσεις
+ []
+
+[31]
+File: parsec-3.0/parsec_workspace/graphs/PRF_blackscholes.png Graphic file (typ
+e bmp)
+<parsec-3.0/parsec_workspace/graphs/PRF_blackscholes.png>
+ [32]
+File: parsec-3.0/parsec_workspace/graphs/PRF_bodytrack.png Graphic file (type b
+mp)
+<parsec-3.0/parsec_workspace/graphs/PRF_bodytrack.png>
+ [33]
+File: parsec-3.0/parsec_workspace/graphs/PRF_canneal.png Graphic file (type bmp
+)
+<parsec-3.0/parsec_workspace/graphs/PRF_canneal.png>
+ [34]
+File: parsec-3.0/parsec_workspace/graphs/PRF_fluidanimate.png Graphic file (typ
+e bmp)
+<parsec-3.0/parsec_workspace/graphs/PRF_fluidanimate.png>
+ [35]
+File: parsec-3.0/parsec_workspace/graphs/PRF_freqmine.png Graphic file (type bm
+p)
+<parsec-3.0/parsec_workspace/graphs/PRF_freqmine.png>
+ [36]
+File: parsec-3.0/parsec_workspace/graphs/PRF_rtview.png Graphic file (type bmp)
+
+<parsec-3.0/parsec_workspace/graphs/PRF_rtview.png>
+ [37]
+File: parsec-3.0/parsec_workspace/graphs/PRF_streamcluster.png Graphic file (ty
+pe bmp)
+<parsec-3.0/parsec_workspace/graphs/PRF_streamcluster.png>
+ [38]
+File: parsec-3.0/parsec_workspace/graphs/PRF_swaptions.png Graphic file (type b
+mp)
+<parsec-3.0/parsec_workspace/graphs/PRF_swaptions.png>
+ [39]
+File: parsec-3.0/parsec_workspace/graphs/PRF_geoavg.png Graphic file (type bmp)
+
+<parsec-3.0/parsec_workspace/graphs/PRF_geoavg.png>
+ [40]
+Overfull \hbox (11.38023pt too wide) in paragraph at lines 510--511
+\TU/MinionPro(0)/m/n/12 χρησιμοποιώντας σαν μετρική το IPC). Αν πραγματικά θέλο
+υμε να διαλέξουμε την καλύτερη
+ []
+
+[41]
+Overfull \hbox (36.86491pt too wide) in paragraph at lines 542--543
+[]\TU/MinionPro(0)/m/n/12 Τα παραπάνω αποτελέσματα ισχύουν για όλες τις τιμές τ
+ων $[][] [] [] [][][][][] [][][] [][][] [][][] [][] [][] [][][] [][][] [][][][]
+$,
+ []
+
+File: parsec-3.0/parsec_workspace/graphs/L1_blackscholes_real.png Graphic file 
+(type bmp)
+<parsec-3.0/parsec_workspace/graphs/L1_blackscholes_real.png>
+[42]
+File: parsec-3.0/parsec_workspace/graphs/L1_bodytrack_real.png Graphic file (ty
+pe bmp)
+<parsec-3.0/parsec_workspace/graphs/L1_bodytrack_real.png>
+ [43]
+File: parsec-3.0/parsec_workspace/graphs/L1_canneal_real.png Graphic file (type
+ bmp)
+<parsec-3.0/parsec_workspace/graphs/L1_canneal_real.png>
+ [44]
+File: parsec-3.0/parsec_workspace/graphs/L1_fluidanimate_real.png Graphic file 
+(type bmp)
+<parsec-3.0/parsec_workspace/graphs/L1_fluidanimate_real.png>
+ [45]
+File: parsec-3.0/parsec_workspace/graphs/L1_freqmine_real.png Graphic file (typ
+e bmp)
+<parsec-3.0/parsec_workspace/graphs/L1_freqmine_real.png>
+ [46]
+File: parsec-3.0/parsec_workspace/graphs/L1_rtview_real.png Graphic file (type 
+bmp)
+<parsec-3.0/parsec_workspace/graphs/L1_rtview_real.png>
+ [47]
+File: parsec-3.0/parsec_workspace/graphs/L1_streamcluster_real.png Graphic file
+ (type bmp)
+<parsec-3.0/parsec_workspace/graphs/L1_streamcluster_real.png>
+ [48]
+File: parsec-3.0/parsec_workspace/graphs/L1_swaptions_real.png Graphic file (ty
+pe bmp)
+<parsec-3.0/parsec_workspace/graphs/L1_swaptions_real.png>
+ [49]
+File: parsec-3.0/parsec_workspace/graphs/L1_geoavg_real.png Graphic file (type 
+bmp)
+<parsec-3.0/parsec_workspace/graphs/L1_geoavg_real.png>
+ [50]
+Overfull \hbox (26.53386pt too wide) in paragraph at lines 629--630
+\TU/MinionPro(0)/m/n/12 από τα μικροαρχιτεκτονικά χαρακτηριστικά του επεξεργαστ
+ή), τα οφέλη των αυξημένων παραμέτρων
+ []
+
+File: parsec-3.0/parsec_workspace/graphs/L2_blackscholes_real.png Graphic file 
+(type bmp)
+<parsec-3.0/parsec_workspace/graphs/L2_blackscholes_real.png>
+[51]
+File: parsec-3.0/parsec_workspace/graphs/L2_bodytrack_real.png Graphic file (ty
+pe bmp)
+<parsec-3.0/parsec_workspace/graphs/L2_bodytrack_real.png>
+ [52]
+File: parsec-3.0/parsec_workspace/graphs/L2_canneal_real.png Graphic file (type
+ bmp)
+<parsec-3.0/parsec_workspace/graphs/L2_canneal_real.png>
+ [53]
+File: parsec-3.0/parsec_workspace/graphs/L2_fluidanimate_real.png Graphic file 
+(type bmp)
+<parsec-3.0/parsec_workspace/graphs/L2_fluidanimate_real.png>
+ [54]
+File: parsec-3.0/parsec_workspace/graphs/L2_freqmine_real.png Graphic file (typ
+e bmp)
+<parsec-3.0/parsec_workspace/graphs/L2_freqmine_real.png>
+ [55]
+File: parsec-3.0/parsec_workspace/graphs/L2_rtview_real.png Graphic file (type 
+bmp)
+<parsec-3.0/parsec_workspace/graphs/L2_rtview_real.png>
+ [56]
+File: parsec-3.0/parsec_workspace/graphs/L2_streamcluster_real.png Graphic file
+ (type bmp)
+<parsec-3.0/parsec_workspace/graphs/L2_streamcluster_real.png>
+ [57]
+File: parsec-3.0/parsec_workspace/graphs/L2_swaptions_real.png Graphic file (ty
+pe bmp)
+<parsec-3.0/parsec_workspace/graphs/L2_swaptions_real.png>
+ [58]
+File: parsec-3.0/parsec_workspace/graphs/L2_geoavg_real.png Graphic file (type 
+bmp)
+<parsec-3.0/parsec_workspace/graphs/L2_geoavg_real.png>
+ [59]
+File: parsec-3.0/parsec_workspace/graphs/TLB_blackscholes_real.png Graphic file
+ (type bmp)
+<parsec-3.0/parsec_workspace/graphs/TLB_blackscholes_real.png>
+ [60]
+File: parsec-3.0/parsec_workspace/graphs/TLB_bodytrack_real.png Graphic file (t
+ype bmp)
+<parsec-3.0/parsec_workspace/graphs/TLB_bodytrack_real.png>
+ [61]
+File: parsec-3.0/parsec_workspace/graphs/TLB_canneal_real.png Graphic file (typ
+e bmp)
+<parsec-3.0/parsec_workspace/graphs/TLB_canneal_real.png>
+ [62]
+File: parsec-3.0/parsec_workspace/graphs/TLB_fluidanimate_real.png Graphic file
+ (type bmp)
+<parsec-3.0/parsec_workspace/graphs/TLB_fluidanimate_real.png>
+ [63]
+File: parsec-3.0/parsec_workspace/graphs/TLB_freqmine_real.png Graphic file (ty
+pe bmp)
+<parsec-3.0/parsec_workspace/graphs/TLB_freqmine_real.png>
+ [64]
+File: parsec-3.0/parsec_workspace/graphs/TLB_rtview_real.png Graphic file (type
+ bmp)
+<parsec-3.0/parsec_workspace/graphs/TLB_rtview_real.png>
+ [65]
+File: parsec-3.0/parsec_workspace/graphs/TLB_streamcluster_real.png Graphic fil
+e (type bmp)
+<parsec-3.0/parsec_workspace/graphs/TLB_streamcluster_real.png>
+
+[66]
+File: parsec-3.0/parsec_workspace/graphs/TLB_swaptions_real.png Graphic file (t
+ype bmp)
+<parsec-3.0/parsec_workspace/graphs/TLB_swaptions_real.png>
+ [67]
+File: parsec-3.0/parsec_workspace/graphs/TLB_geoavg_real.png Graphic file (type
+ bmp)
+<parsec-3.0/parsec_workspace/graphs/TLB_geoavg_real.png>
+ [68]
+Overfull \hbox (11.88466pt too wide) in paragraph at lines 778--779
+[]\TU/MinionPro(0)/m/n/12 Παρατηρείται η ίδια πτωτική τάση με πριν. Ούτε το TLB
+ size ούτε το associativity επωφελούν
+ []
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 780.
+[69]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 780.
+ (./report.aux)
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 780.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 780.
+Package rerunfilecheck Info: File `report.out' has not changed.
+(rerunfilecheck)             Checksum: 80E3A0D861CDA57BB6E3B16D8E5F02EA;7392.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 780.
+ ) 
+Here is how much of TeX's memory you used:
+ 20162 strings out of 479819
+ 366264 string characters out of 5895846
+ 949103 words of memory out of 5000000
+ 36923 multiletter control sequences out of 15000+600000
+ 538275 words of font info for 89 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 59i,6n,109p,594b,417s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on report.pdf (69 pages).

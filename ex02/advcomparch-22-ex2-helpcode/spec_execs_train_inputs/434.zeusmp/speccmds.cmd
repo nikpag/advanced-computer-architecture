@@ -1,0 +1,1 @@
+-o zeusmp.stdout -e zeusmp.err ./zeusmp_base.amd64-m64-gcc42-nn

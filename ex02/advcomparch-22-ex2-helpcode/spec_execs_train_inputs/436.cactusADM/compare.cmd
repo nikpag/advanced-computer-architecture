@@ -1,0 +1,1 @@
+-c /various/SPEC-CPU-2016/SPEC_CPU2006v1.1/benchspec/CPU2006/436.cactusADM/run/run_base_train_amd64-m64-gcc42-nn.0000 -o benchADM.out.cmp specperl /various/SPEC-CPU-2016/SPEC_CPU2006v1.1/bin/specdiff -m -l 10  --floatcompare /various/SPEC-CPU-2016/SPEC_CPU2006v1.1/benchspec/CPU2006/436.cactusADM/data/train/output/benchADM.out benchADM.out

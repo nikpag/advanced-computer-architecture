@@ -1,0 +1,1 @@
+-c /various/SPEC-CPU-2016/SPEC_CPU2006v1.1/benchspec/CPU2006/403.gcc/run/run_base_train_amd64-m64-gcc42-nn.0000 -o integrate.s.cmp specperl /various/SPEC-CPU-2016/SPEC_CPU2006v1.1/bin/specdiff -m -l 10 /various/SPEC-CPU-2016/SPEC_CPU2006v1.1/benchspec/CPU2006/403.gcc/data/train/output/integrate.s integrate.s

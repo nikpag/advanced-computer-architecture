@@ -1,0 +1,1 @@
+-c /various/SPEC-CPU-2016/SPEC_CPU2006v1.1/benchspec/CPU2006/456.hmmer/run/run_base_train_amd64-m64-gcc42-nn.0000 -o leng100.out.cmp specperl /various/SPEC-CPU-2016/SPEC_CPU2006v1.1/bin/specdiff -m -l 10  --abstol 1e-05  --reltol 0.002 /various/SPEC-CPU-2016/SPEC_CPU2006v1.1/benchspec/CPU2006/456.hmmer/data/train/output/leng100.out leng100.out

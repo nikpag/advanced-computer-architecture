@@ -1,0 +1,1237 @@
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2022.4.13)  28 MAY 2022 12:57
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**report.tex
+(./report.tex
+LaTeX2e <2020-02-02> patch level 2
+L3 programming layer <2020-02-14>
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count163
+\c@section=\count164
+\c@subsection=\count165
+\c@subsubsection=\count166
+\c@paragraph=\count167
+\c@subparagraph=\count168
+\c@figure=\count169
+\c@table=\count170
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+)
+(/home/nick/xelatex.tex
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 105.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/xetex.def
+File: xetex.def 2017/06/24 v5.0h Graphics/color driver for xetex
+))
+\Gin@req@height=\dimen135
+\Gin@req@width=\dimen136
+)
+(/usr/share/texlive/texmf-dist/tex/latex/placeins/placeins.sty
+Package: placeins 2005/04/18  v 2.2
+)
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count171
+\float@exts=\toks15
+\float@box=\box45
+\@float@everytoks=\toks16
+\@floatcapt=\box46
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2020/01/20 v2.17e AMS math features
+\@mathmargin=\skip49
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks17
+\ex@=\dimen137
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen138
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count172
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count173
+\leftroot@=\count174
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count175
+\DOTSCASE@=\count176
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box47
+\strutbox@=\box48
+\big@size=\dimen139
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count177
+\c@MaxMatrixCols=\count178
+\dotsspace@=\muskip16
+\c@parentequation=\count179
+\dspbrk@lvl=\count180
+\tag@help=\toks18
+\row@=\count181
+\column@=\count182
+\maxfields@=\count183
+\andhelp@=\toks19
+\eqnshift@=\dimen140
+\alignsep@=\dimen141
+\tagshift@=\dimen142
+\tagwidth@=\dimen143
+\totwidth@=\dimen144
+\lineht@=\dimen145
+\@envbody=\toks20
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks21
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count184
+\lst@gtempboxa=\box49
+\lst@token=\toks22
+\lst@length=\count185
+\lst@currlwidth=\dimen146
+\lst@column=\count186
+\lst@pos=\count187
+\lst@lostspace=\dimen147
+\lst@width=\dimen148
+\lst@newlines=\count188
+\lst@lineno=\count189
+\lst@maxwidth=\dimen149
+
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2019/09/10 1.8c (Carsten Heinz)
+\c@lstnumber=\count190
+\lst@skipnumbers=\count191
+\lst@framebox=\box50
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2019/09/10 1.8c listings configuration
+))
+Package: listings 2019/09/10 1.8c (Carsten Heinz)
+
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: xetex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/extarrows/extarrows.sty
+Package: extarrows 2008/05/15 v1.0b Some extensible arrows
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2019/11/10 v1.5r LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks23
+\verbatim@line=\toks24
+\verbatim@in@stream=\read2
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/enumerate.sty
+Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
+\@enLab=\toks25
+)
+(/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip52
+\enit@outerparindent=\dimen150
+\enit@toks=\toks26
+\enit@inbox=\box51
+\enit@count@id=\count192
+\enitdp@description=\count193
+)
+(/usr/share/texlive/texmf-dist/tex/latex/eurosym/eurosym.sty
+Package: eurosym 1998/08/06 v1.1 European currency symbol ``Euro''
+\@eurobox=\box52
+)
+(/usr/share/texlive/texmf-dist/tex/latex/svg/svg.sty
+Package: svg 2020/01/13 v2.02e (include SVG pictures)
+
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2019/11/07 v1.0c TeX engine tests
+)
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrbase.sty
+Package: scrbase 2020/01/24 v3.29 KOMA-Script package (KOMA-Script-independent 
+basics and keyval usage)
+
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlfile.sty
+Package: scrlfile 2020/01/24 v3.29 KOMA-Script package (loading files)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode not found.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/shellesc.sty
+Package: shellesc 2019/11/08 v1.0c unified shell escape interface for LaTeX
+Package shellesc Info: Restricted shell escape enabled on input line 77.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/trimspaces/trimspaces.sty
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
+)
+\svg@box=\box53
+\c@svg@param@lastpage=\count194
+\c@svg@param@currpage=\count195
+)
+(/usr/share/texlive/texmf-dist/tex/latex/transparent/transparent.sty
+Package: transparent 2019/11/29 v1.4 Transparency via pdfTeX's color stack (HO)
+
+
+
+Package transparent Warning: Loading aborted, because pdfTeX is not running in 
+PDF mode.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/varwidth/varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box54
+\sift@deathcycles=\count196
+\@vwid@loff=\dimen151
+\@vwid@roff=\dimen152
+)
+(/usr/share/texlive/texmf-dist/tex/latex/moreverb/moreverb.sty
+Package: moreverb 2008/06/03 v2.3a `more' verbatim facilities
+\tab@position=\count197
+\tab@size=\count198
+\listing@line=\count199
+)
+(/usr/share/texlive/texmf-dist/tex/latex/relsize/relsize.sty
+Package: relsize 2013/03/29 ver 4.1
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tabto-ltx/tabto.sty
+Package: tabto 2018/12/28  v 1.4  Another tabbing mechanism
+\CurrentLineWidth=\dimen153
+\TabPrevPos=\dimen154
+)
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count266
+\Gm@cntv=\count267
+\c@Gm@tempcnt=\count268
+\Gm@bindingoffset=\dimen155
+\Gm@wd@mp=\dimen156
+\Gm@odd@mp=\dimen157
+\Gm@even@mp=\dimen158
+\Gm@layoutwidth=\dimen159
+\Gm@layoutheight=\dimen160
+\Gm@layouthoffset=\dimen161
+\Gm@layoutvoffset=\dimen162
+\Gm@dimlist=\toks27
+)
+(/usr/share/texlive/texmf-dist/tex/generic/ulem/ulem.sty
+\UL@box=\box55
+\UL@hyphenbox=\box56
+\UL@skip=\skip53
+\UL@hook=\toks28
+\UL@height=\dimen163
+\UL@pe=\count269
+\UL@pixel=\dimen164
+\ULC@box=\box57
+Package: ulem 2019/11/18
+\ULdepth=\dimen165
+)
+(/usr/share/texlive/texmf-dist/tex/latex/units/units.sty
+Package: units 1998/08/04 v0.9b Typesetting units
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/units/nicefrac.sty
+Package: nicefrac 1998/08/04 v0.9b Nice fractions
+\L@UnitsRaiseDisplaystyle=\skip54
+\L@UnitsRaiseTextstyle=\skip55
+\L@UnitsRaiseScriptstyle=\skip56
+))
+(/usr/share/texlive/texmf-dist/tex/latex/fancyvrb/fancyvrb.sty
+Package: fancyvrb 2020/01/13 v3.5 verbatim text (tvz,hv)
+\FV@CodeLineNo=\count270
+\FV@InFile=\read3
+\FV@TabBox=\box58
+\c@FancyVerbLine=\count271
+\FV@StepNumber=\count272
+\FV@OutFile=\write3
+)
+(/usr/share/texlive/texmf-dist/tex/latex/unicode-math/unicode-math.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2020-02-14 L3 programming layer (loader) 
+
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-xdvipdfmx.def
+File: l3backend-xdvipdfmx.def 2020-02-03 L3 backend support: xdvipdfmx
+\g__graphics_track_int=\count273
+\l__pdf_internal_box=\box59
+\g__pdf_backend_object_int=\count274
+\g__pdf_backend_annotation_int=\count275
+))
+Package: unicode-math 2020/01/31 v0.8q Unicode maths in XeLaTeX and LuaLaTeX
+
+(/usr/share/texlive/texmf-dist/tex/latex/unicode-math/unicode-math-xetex.sty
+Package: unicode-math-xetex 2020/01/31 v0.8q Unicode maths in XeLaTeX and LuaLa
+TeX
+
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2020-02-14 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count276
+\g__xparse_grabber_int=\count277
+\l__xparse_m_args_int=\count278
+\l__xparse_v_nesting_int=\count279
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+Package: l3keys2e 2020-02-14 LaTeX2e option processing using LaTeX3 keys
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty
+Package: fontspec 2020/02/03 v2.7h Font selection for XeLaTeX and LuaLaTeX
+
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+Package: fontspec-xetex 2020/02/03 v2.7h Font selection for XeLaTeX and LuaLaTe
+X
+\l__fontspec_script_int=\count280
+\l__fontspec_language_int=\count281
+\l__fontspec_strnum_int=\count282
+\l__fontspec_tmp_int=\count283
+\l__fontspec_tmpa_int=\count284
+\l__fontspec_tmpb_int=\count285
+\l__fontspec_tmpc_int=\count286
+\l__fontspec_em_int=\count287
+\l__fontspec_emdef_int=\count288
+\l__fontspec_strong_int=\count289
+\l__fontspec_strongdef_int=\count290
+\l__fontspec_tmpa_dim=\dimen166
+\l__fontspec_tmpb_dim=\dimen167
+\l__fontspec_tmpc_dim=\dimen168
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+(/usr/share/texlive/texmf-dist/tex/latex/base/fix-cm.sty
+Package: fix-cm 2015/01/14 v1.1t fixes to LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding TS1 on input line 47.
+))
+\g__um_fam_int=\count291
+\g__um_fonts_used_int=\count292
+\l__um_primecount_int=\count293
+\g__um_primekern_muskip=\muskip17
+
+(/usr/share/texlive/texmf-dist/tex/latex/unicode-math/unicode-math-table.tex)))
+)
+
+Package fontspec Info: Font family 'MinionPro(0)' created for font 'Minion
+(fontspec)             Pro' with options [Ligatures=TeX].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Minion
+(fontspec)             Pro/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: <->"Minion
+(fontspec)             Pro/OT:script=latn;language=dflt;+smcp;mapping=tex-text;
+"
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"Minion
+(fontspec)             Pro/B/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: <->"Minion
+(fontspec)             Pro/B/OT:script=latn;language=dflt;+smcp;mapping=tex-tex
+t;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.: <->"Minion
+(fontspec)             Pro/I/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->"Minion
+(fontspec)             Pro/I/OT:script=latn;language=dflt;+smcp;mapping=tex-tex
+t;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"Minion
+(fontspec)             Pro/BI/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->"Minion
+(fontspec)             Pro/BI/OT:script=latn;language=dflt;+smcp;mapping=tex-te
+xt;"
+
+
+Package fontspec Info: Font family 'MinionPro(1)' created for font 'Minion
+(fontspec)             Pro' with options [].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Minion
+(fontspec)             Pro/OT:script=latn;language=dflt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: <->"Minion
+(fontspec)             Pro/OT:script=latn;language=dflt;+smcp;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"Minion
+(fontspec)             Pro/B/OT:script=latn;language=dflt;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: <->"Minion
+(fontspec)             Pro/B/OT:script=latn;language=dflt;+smcp;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.: <->"Minion
+(fontspec)             Pro/I/OT:script=latn;language=dflt;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->"Minion Pro/I/OT:script=latn;language=dflt;+smcp;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"Minion
+(fontspec)             Pro/BI/OT:script=latn;language=dflt;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->"Minion Pro/BI/OT:script=latn;language=dflt;+smcp;"
+
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
+(Font)                  OT1/cmr/m/n --> TU/MinionPro(1)/m/n on input line 9.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> TU/MinionPro(1)/m/it on input line 9.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> TU/MinionPro(1)/bx/n on input line 9.
+ (./report.aux)
+\openout1 = `report.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+\c@lstlisting=\count294
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+*geometry* verbose mode - [ preamble ] result:
+* driver: xetex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.26999pt, 452.9679pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 700.50687pt, 72.26999pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=452.9679pt
+* \textheight=700.50687pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-37.0pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 39.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 39.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 39.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 39.
+
+Package fontspec Info: Font family 'latinmodern-math.otf(0)' created for font
+(fontspec)             'latinmodern-math.otf' with options
+(fontspec)             [BoldItalicFont={},ItalicFont={},SmallCapsFont={},Script
+=Math,BoldFont={latinmodern-math.otf}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[latinmodern-math.otf]/OT:script=math;language=dflt;
+"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"[latinmodern-math.otf]/OT:script=math;language=dflt;
+"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+
+
+Package fontspec Info: Font family 'latinmodern-math.otf(1)' created for font
+(fontspec)             'latinmodern-math.otf' with options
+(fontspec)             [BoldItalicFont={},ItalicFont={},SmallCapsFont={},Script
+=Math,SizeFeatures={{Size=10.2-},{Size=7.2-10.2,Font=latinmodern-math.otf,Style
+=MathScript},{Size=-7.2,Font=latinmodern-math.otf,Style=MathScriptScript}},Bold
+Font={latinmodern-math.otf}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <10.2->"[latinmodern-math.otf]/OT:script=math;language=d
+flt;"<7.2-10.2>"[latinmodern-math.otf]/OT:script=math;language=dflt;+ssty=0;"<-
+7.2>"[latinmodern-math.otf]/OT:script=math;language=dflt;+ssty=1;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"[latinmodern-math.otf]/OT:script=math;language=dflt;
+"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `normal' on input line 39.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> TU/latinmodern-math.otf(1)/m/n on input
+ line 39.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `bold' on input line 39.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> TU/latinmodern-math.otf(1)/b/n on inpu
+t line 39.
+
+Package fontspec Info: latinmodern-math scale = 1.0001.
+
+
+Package fontspec Info: latinmodern-math scale = 1.0001.
+
+
+Package fontspec Info: latinmodern-math scale = 1.0001.
+
+
+Package fontspec Info: latinmodern-math scale = 1.0001.
+
+
+Package fontspec Info: latinmodern-math scale = 1.0001.
+
+
+Package fontspec Info: Font family 'latinmodern-math.otf(2)' created for font
+(fontspec)             'latinmodern-math.otf' with options
+(fontspec)             [BoldItalicFont={},ItalicFont={},SmallCapsFont={},Script
+=Math,SizeFeatures={{Size=10.2-},{Size=7.2-10.2,Font=latinmodern-math.otf,Style
+=MathScript},{Size=-7.2,Font=latinmodern-math.otf,Style=MathScriptScript}},Bold
+Font={latinmodern-math.otf},ScaleAgain=1.0001,FontAdjustment={\fontdimen
+(fontspec)             8\font =8.124pt\relax \fontdimen 9\font =4.728pt\relax
+(fontspec)             \fontdimen 10\font =5.328pt\relax \fontdimen 11\font
+(fontspec)             =8.232pt\relax \fontdimen 12\font =4.14pt\relax
+(fontspec)             \fontdimen 13\font =4.356pt\relax \fontdimen 14\font
+(fontspec)             =4.356pt\relax \fontdimen 15\font =3.468pt\relax
+(fontspec)             \fontdimen 16\font =2.964pt\relax \fontdimen 17\font
+(fontspec)             =2.964pt\relax \fontdimen 18\font =3.0pt\relax
+(fontspec)             \fontdimen 19\font =2.4pt\relax \fontdimen 22\font
+(fontspec)             =3.0pt\relax \fontdimen 20\font =0pt\relax \fontdimen
+(fontspec)             21\font =0pt\relax }].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <10.2->s*[1.0001]"[latinmodern-math.otf]/OT:script=math;
+language=dflt;"<7.2-10.2>s*[1.0001]"[latinmodern-math.otf]/OT:script=math;langu
+age=dflt;+ssty=0;"<-7.2>s*[1.0001]"[latinmodern-math.otf]/OT:script=math;langua
+ge=dflt;+ssty=1;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             and font adjustment code:
+(fontspec)             \fontdimen 8\font =8.124pt\relax \fontdimen 9\font
+(fontspec)             =4.728pt\relax \fontdimen 10\font =5.328pt\relax
+(fontspec)             \fontdimen 11\font =8.232pt\relax \fontdimen 12\font
+(fontspec)             =4.14pt\relax \fontdimen 13\font =4.356pt\relax
+(fontspec)             \fontdimen 14\font =4.356pt\relax \fontdimen 15\font
+(fontspec)             =3.468pt\relax \fontdimen 16\font =2.964pt\relax
+(fontspec)             \fontdimen 17\font =2.964pt\relax \fontdimen 18\font
+(fontspec)             =3.0pt\relax \fontdimen 19\font =2.4pt\relax \fontdimen
+(fontspec)             22\font =3.0pt\relax \fontdimen 20\font =0pt\relax
+(fontspec)             \fontdimen 21\font =0pt\relax 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[1.0001]"[latinmodern-math.otf]/OT:script=math;lang
+uage=dflt;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             and font adjustment code:
+(fontspec)             \fontdimen 8\font =8.124pt\relax \fontdimen 9\font
+(fontspec)             =4.728pt\relax \fontdimen 10\font =5.328pt\relax
+(fontspec)             \fontdimen 11\font =8.232pt\relax \fontdimen 12\font
+(fontspec)             =4.14pt\relax \fontdimen 13\font =4.356pt\relax
+(fontspec)             \fontdimen 14\font =4.356pt\relax \fontdimen 15\font
+(fontspec)             =3.468pt\relax \fontdimen 16\font =2.964pt\relax
+(fontspec)             \fontdimen 17\font =2.964pt\relax \fontdimen 18\font
+(fontspec)             =3.0pt\relax \fontdimen 19\font =2.4pt\relax \fontdimen
+(fontspec)             22\font =3.0pt\relax \fontdimen 20\font =0pt\relax
+(fontspec)             \fontdimen 21\font =0pt\relax 
+
+LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
+(Font)              `symbols' in the math version `normal' on input line 39.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> TU/latinmodern-math.otf(2)/m/n on inpu
+t line 39.
+LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
+(Font)              `symbols' in the math version `bold' on input line 39.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> TU/latinmodern-math.otf(2)/b/n on inpu
+t line 39.
+
+Package fontspec Info: latinmodern-math scale = 0.9999.
+
+
+Package fontspec Info: latinmodern-math scale = 0.9999.
+
+
+Package fontspec Info: latinmodern-math scale = 0.9999.
+
+
+Package fontspec Info: latinmodern-math scale = 0.9999.
+
+
+Package fontspec Info: latinmodern-math scale = 0.9999.
+
+
+Package fontspec Info: Font family 'latinmodern-math.otf(3)' created for font
+(fontspec)             'latinmodern-math.otf' with options
+(fontspec)             [BoldItalicFont={},ItalicFont={},SmallCapsFont={},Script
+=Math,SizeFeatures={{Size=10.2-},{Size=7.2-10.2,Font=latinmodern-math.otf,Style
+=MathScript},{Size=-7.2,Font=latinmodern-math.otf,Style=MathScriptScript}},Bold
+Font={latinmodern-math.otf},ScaleAgain=0.9999,FontAdjustment={\fontdimen
+(fontspec)             8\font =0.48pt\relax \fontdimen 9\font =2.4pt\relax
+(fontspec)             \fontdimen 10\font =2.004pt\relax \fontdimen 11\font
+(fontspec)             =1.332pt\relax \fontdimen 12\font =7.2pt\relax
+(fontspec)             \fontdimen 13\font =0pt\relax }].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <10.2->s*[0.9999]"[latinmodern-math.otf]/OT:script=math;
+language=dflt;"<7.2-10.2>s*[0.9999]"[latinmodern-math.otf]/OT:script=math;langu
+age=dflt;+ssty=0;"<-7.2>s*[0.9999]"[latinmodern-math.otf]/OT:script=math;langua
+ge=dflt;+ssty=1;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             and font adjustment code:
+(fontspec)             \fontdimen 8\font =0.48pt\relax \fontdimen 9\font
+(fontspec)             =2.4pt\relax \fontdimen 10\font =2.004pt\relax
+(fontspec)             \fontdimen 11\font =1.332pt\relax \fontdimen 12\font
+(fontspec)             =7.2pt\relax \fontdimen 13\font =0pt\relax 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[0.9999]"[latinmodern-math.otf]/OT:script=math;lang
+uage=dflt;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             and font adjustment code:
+(fontspec)             \fontdimen 8\font =0.48pt\relax \fontdimen 9\font
+(fontspec)             =2.4pt\relax \fontdimen 10\font =2.004pt\relax
+(fontspec)             \fontdimen 11\font =1.332pt\relax \fontdimen 12\font
+(fontspec)             =7.2pt\relax \fontdimen 13\font =0pt\relax 
+
+LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
+(Font)              `largesymbols' in the math version `normal' on input line 3
+9.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> TU/latinmodern-math.otf(3)/m/n on inpu
+t line 39.
+LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
+(Font)              `largesymbols' in the math version `bold' on input line 39.
+
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> TU/latinmodern-math.otf(3)/b/n on inpu
+t line 39.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 14.40152pt on input line 40.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 10.00107pt on input line 40.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 7.00075pt on input line 40.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 14.39845pt on input line 40.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 9.99893pt on input line 40.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 6.99925pt on input line 40.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 40.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 40.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+Overfull \hbox (2.15619pt too wide) in paragraph at lines 49--50
+[][][]\TU/lmtt/m/n/12 cslab_branch_stats.cpp []\TU/MinionPro(0)/m/n/12 για την 
+εξαγωγή στατιστικών σχετικά με τις εντολές άλματος
+ []
+
+
+Overfull \hbox (31.34178pt too wide) in paragraph at lines 55--56
+[][][]\TU/lmtt/m/n/12 update()[]\TU/MinionPro(0)/m/n/12 , που αποθηκεύει τις πλ
+ηροφορίες που απαιτούνται για μελλοντικές προβλέψεις, 
+ []
+
+[1
+
+]
+Overfull \hbox (45.49915pt too wide) in paragraph at lines 83--84
+\TU/MinionPro(0)/m/n/12 benchmarks, οπότε χρησιμοποιείται το [][]\TU/lmtt/m/n/1
+2 cslab_branch_stats.cpp[]\TU/MinionPro(0)/m/n/12 . Για κάθε benchmark παρουσιά
+ζουμε
+ []
+
+File: /home/nick/arch-ntua/ex02/graphs/4.1/403.gcc.cslab_branch_predictors.out.
+pdf Graphic file (type pdf)
+<use /home/nick/arch-ntua/ex02/graphs/4.1/403.gcc.cslab_branch_predictors.out.p
+df>
+File: /home/nick/arch-ntua/ex02/graphs/4.1/429.mcf.cslab_branch_predictors.out.
+pdf Graphic file (type pdf)
+<use /home/nick/arch-ntua/ex02/graphs/4.1/429.mcf.cslab_branch_predictors.out.p
+df>
+[2]
+File: /home/nick/arch-ntua/ex02/graphs/4.1/434.zeusmp.cslab_branch_predictors.o
+ut.pdf Graphic file (type pdf)
+<use /home/nick/arch-ntua/ex02/graphs/4.1/434.zeusmp.cslab_branch_predictors.ou
+t.pdf>
+File: /home/nick/arch-ntua/ex02/graphs/4.1/436.cactusADM.cslab_branch_predictor
+s.out.pdf Graphic file (type pdf)
+<use /home/nick/arch-ntua/ex02/graphs/4.1/436.cactusADM.cslab_branch_predictors
+.out.pdf>
+ [3]
+File: /home/nick/arch-ntua/ex02/graphs/4.1/445.gobmk.cslab_branch_predictors.ou
+t.pdf Graphic file (type pdf)
+<use /home/nick/arch-ntua/ex02/graphs/4.1/445.gobmk.cslab_branch_predictors.out
+.pdf>
+File: /home/nick/arch-ntua/ex02/graphs/4.1/450.soplex.cslab_branch_predictors.o
+ut.pdf Graphic file (type pdf)
+<use /home/nick/arch-ntua/ex02/graphs/4.1/450.soplex.cslab_branch_predictors.ou
+t.pdf>
+ [4]
+File: /home/nick/arch-ntua/ex02/graphs/4.1/456.hmmer.cslab_branch_predictors.ou
+t.pdf Graphic file (type pdf)
+<use /home/nick/arch-ntua/ex02/graphs/4.1/456.hmmer.cslab_branch_predictors.out
+.pdf>
+File: /home/nick/arch-ntua/ex02/graphs/4.1/458.sjeng.cslab_branch_predictors.ou
+t.pdf Graphic file (type pdf)
+<use /home/nick/arch-ntua/ex02/graphs/4.1/458.sjeng.cslab_branch_predictors.out
+.pdf>
+ [5]
+File: /home/nick/arch-ntua/ex02/graphs/4.1/459.GemsFDTD.cslab_branch_predictors
+.out.pdf Graphic file (type pdf)
+<use /home/nick/arch-ntua/ex02/graphs/4.1/459.GemsFDTD.cslab_branch_predictors.
+out.pdf>
+File: /home/nick/arch-ntua/ex02/graphs/4.1/462.libquantum.cslab_branch_predicto
+rs.out.pdf Graphic file (type pdf)
+<use /home/nick/arch-ntua/ex02/graphs/4.1/462.libquantum.cslab_branch_predictor
+s.out.pdf>
+ [6]
+File: /home/nick/arch-ntua/ex02/graphs/4.1/470.lbm.cslab_branch_predictors.out.
+pdf Graphic file (type pdf)
+<use /home/nick/arch-ntua/ex02/graphs/4.1/470.lbm.cslab_branch_predictors.out.p
+df>
+File: /home/nick/arch-ntua/ex02/graphs/4.1/471.omnetpp.cslab_branch_predictors.
+out.pdf Graphic file (type pdf)
+<use /home/nick/arch-ntua/ex02/graphs/4.1/471.omnetpp.cslab_branch_predictors.o
+ut.pdf>
+ [7]
+File: /home/nick/arch-ntua/ex02/graphs/4.1/473.astar.cslab_branch_predictors.ou
+t.pdf Graphic file (type pdf)
+<use /home/nick/arch-ntua/ex02/graphs/4.1/473.astar.cslab_branch_predictors.out
+.pdf>
+File: /home/nick/arch-ntua/ex02/graphs/4.1/483.xalancbmk.cslab_branch_predictor
+s.out.pdf Graphic file (type pdf)
+<use /home/nick/arch-ntua/ex02/graphs/4.1/483.xalancbmk.cslab_branch_predictors
+.out.pdf>
+ [8]
+Underfull \hbox (badness 10000) in paragraph at lines 205--206
+
+ []
+
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 12.00128pt on input line 207.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 8.40088pt on input line 207.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 6.00064pt on input line 207.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 11.99872pt on input line 207.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 8.3991pt on input line 207.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 5.99936pt on input line 207.
+
+Overfull \hbox (6.44017pt too wide) in paragraph at lines 207--208
+[]\TU/MinionPro(0)/m/n/12 Ως επί το πλείστον πρόκειται για Conditional-Taken-Br
+anches/Conditional-NotTaken-Branches.
+ []
+
+
+Overfull \hbox (15.84178pt too wide) in paragraph at lines 207--208
+\TU/MinionPro(0)/m/n/12 marks έχουν σημαντικά μεγαλύτερο αριθμό εντολών, όπως τ
+α [][]\TU/lmtt/m/n/12 sjeng, hmmer, omnet []\TU/MinionPro(0)/m/n/12 και [][]\TU
+/lmtt/m/n/12 xalanc[]\TU/MinionPro(0)/m/n/12 ,
+ []
+
+[9]
+File: alternate-fsm.pdf Graphic file (type pdf)
+<use alternate-fsm.pdf>
+File: /home/nick/arch-ntua/ex02/graphs/4.2/i/403.gcc.cslab_branch_predictors.ou
+t.pdf Graphic file (type pdf)
+<use /home/nick/arch-ntua/ex02/graphs/4.2/i/403.gcc.cslab_branch_predictors.out
+.pdf>
+ [10]
+File: /home/nick/arch-ntua/ex02/graphs/4.2/i/429.mcf.cslab_branch_predictors.ou
+t.pdf Graphic file (type pdf)
+<use /home/nick/arch-ntua/ex02/graphs/4.2/i/429.mcf.cslab_branch_predictors.out
+.pdf>
+File: /home/nick/arch-ntua/ex02/graphs/4.2/i/434.zeusmp.cslab_branch_predictors
+.out.pdf Graphic file (type pdf)
+<use /home/nick/arch-ntua/ex02/graphs/4.2/i/434.zeusmp.cslab_branch_predictors.
+out.pdf>
+ [11]
+File: /home/nick/arch-ntua/ex02/graphs/4.2/i/436.cactusADM.cslab_branch_predict
+ors.out.pdf Graphic file (type pdf)
+<use /home/nick/arch-ntua/ex02/graphs/4.2/i/436.cactusADM.cslab_branch_predicto
+rs.out.pdf>
+File: /home/nick/arch-ntua/ex02/graphs/4.2/i/445.gobmk.cslab_branch_predictors.
+out.pdf Graphic file (type pdf)
+<use /home/nick/arch-ntua/ex02/graphs/4.2/i/445.gobmk.cslab_branch_predictors.o
+ut.pdf>
+ [12]
+File: /home/nick/arch-ntua/ex02/graphs/4.2/i/450.soplex.cslab_branch_predictors
+.out.pdf Graphic file (type pdf)
+<use /home/nick/arch-ntua/ex02/graphs/4.2/i/450.soplex.cslab_branch_predictors.
+out.pdf>
+File: /home/nick/arch-ntua/ex02/graphs/4.2/i/456.hmmer.cslab_branch_predictors.
+out.pdf Graphic file (type pdf)
+<use /home/nick/arch-ntua/ex02/graphs/4.2/i/456.hmmer.cslab_branch_predictors.o
+ut.pdf>
+ [13]
+File: /home/nick/arch-ntua/ex02/graphs/4.2/i/458.sjeng.cslab_branch_predictors.
+out.pdf Graphic file (type pdf)
+<use /home/nick/arch-ntua/ex02/graphs/4.2/i/458.sjeng.cslab_branch_predictors.o
+ut.pdf>
+File: /home/nick/arch-ntua/ex02/graphs/4.2/i/459.GemsFDTD.cslab_branch_predicto
+rs.out.pdf Graphic file (type pdf)
+<use /home/nick/arch-ntua/ex02/graphs/4.2/i/459.GemsFDTD.cslab_branch_predictor
+s.out.pdf>
+ [14]
+File: /home/nick/arch-ntua/ex02/graphs/4.2/i/462.libquantum.cslab_branch_predic
+tors.out.pdf Graphic file (type pdf)
+<use /home/nick/arch-ntua/ex02/graphs/4.2/i/462.libquantum.cslab_branch_predict
+ors.out.pdf>
+File: /home/nick/arch-ntua/ex02/graphs/4.2/i/470.lbm.cslab_branch_predictors.ou
+t.pdf Graphic file (type pdf)
+<use /home/nick/arch-ntua/ex02/graphs/4.2/i/470.lbm.cslab_branch_predictors.out
+.pdf>
+ [15]
+File: /home/nick/arch-ntua/ex02/graphs/4.2/i/471.omnetpp.cslab_branch_predictor
+s.out.pdf Graphic file (type pdf)
+<use /home/nick/arch-ntua/ex02/graphs/4.2/i/471.omnetpp.cslab_branch_predictors
+.out.pdf>
+File: /home/nick/arch-ntua/ex02/graphs/4.2/i/473.astar.cslab_branch_predictors.
+out.pdf Graphic file (type pdf)
+<use /home/nick/arch-ntua/ex02/graphs/4.2/i/473.astar.cslab_branch_predictors.o
+ut.pdf>
+ [16]
+File: /home/nick/arch-ntua/ex02/graphs/4.2/i/483.xalancbmk.cslab_branch_predict
+ors.out.pdf Graphic file (type pdf)
+<use /home/nick/arch-ntua/ex02/graphs/4.2/i/483.xalancbmk.cslab_branch_predicto
+rs.out.pdf>
+File: /home/nick/arch-ntua/ex02/graphs/4.2/i/gmean.pdf Graphic file (type pdf)
+<use /home/nick/arch-ntua/ex02/graphs/4.2/i/gmean.pdf>
+ [17]
+Underfull \hbox (badness 10000) in paragraph at lines 333--334
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 335--336
+
+ []
+
+[18]
+File: /home/nick/arch-ntua/ex02/graphs/4.2/ii/403.gcc.cslab_branch_predictors.o
+ut.pdf Graphic file (type pdf)
+<use /home/nick/arch-ntua/ex02/graphs/4.2/ii/403.gcc.cslab_branch_predictors.ou
+t.pdf>
+File: /home/nick/arch-ntua/ex02/graphs/4.2/ii/429.mcf.cslab_branch_predictors.o
+ut.pdf Graphic file (type pdf)
+<use /home/nick/arch-ntua/ex02/graphs/4.2/ii/429.mcf.cslab_branch_predictors.ou
+t.pdf>
+ [19]
+File: /home/nick/arch-ntua/ex02/graphs/4.2/ii/434.zeusmp.cslab_branch_predictor
+s.out.pdf Graphic file (type pdf)
+<use /home/nick/arch-ntua/ex02/graphs/4.2/ii/434.zeusmp.cslab_branch_predictors
+.out.pdf>
+File: /home/nick/arch-ntua/ex02/graphs/4.2/ii/436.cactusADM.cslab_branch_predic
+tors.out.pdf Graphic file (type pdf)
+<use /home/nick/arch-ntua/ex02/graphs/4.2/ii/436.cactusADM.cslab_branch_predict
+ors.out.pdf>
+ [20]
+File: /home/nick/arch-ntua/ex02/graphs/4.2/ii/445.gobmk.cslab_branch_predictors
+.out.pdf Graphic file (type pdf)
+<use /home/nick/arch-ntua/ex02/graphs/4.2/ii/445.gobmk.cslab_branch_predictors.
+out.pdf>
+File: /home/nick/arch-ntua/ex02/graphs/4.2/ii/450.soplex.cslab_branch_predictor
+s.out.pdf Graphic file (type pdf)
+<use /home/nick/arch-ntua/ex02/graphs/4.2/ii/450.soplex.cslab_branch_predictors
+.out.pdf>
+ [21]
+File: /home/nick/arch-ntua/ex02/graphs/4.2/ii/456.hmmer.cslab_branch_predictors
+.out.pdf Graphic file (type pdf)
+<use /home/nick/arch-ntua/ex02/graphs/4.2/ii/456.hmmer.cslab_branch_predictors.
+out.pdf>
+File: /home/nick/arch-ntua/ex02/graphs/4.2/ii/458.sjeng.cslab_branch_predictors
+.out.pdf Graphic file (type pdf)
+<use /home/nick/arch-ntua/ex02/graphs/4.2/ii/458.sjeng.cslab_branch_predictors.
+out.pdf>
+ [22]
+File: /home/nick/arch-ntua/ex02/graphs/4.2/ii/459.GemsFDTD.cslab_branch_predict
+ors.out.pdf Graphic file (type pdf)
+<use /home/nick/arch-ntua/ex02/graphs/4.2/ii/459.GemsFDTD.cslab_branch_predicto
+rs.out.pdf>
+File: /home/nick/arch-ntua/ex02/graphs/4.2/ii/462.libquantum.cslab_branch_predi
+ctors.out.pdf Graphic file (type pdf)
+<use /home/nick/arch-ntua/ex02/graphs/4.2/ii/462.libquantum.cslab_branch_predic
+tors.out.pdf>
+ [23]
+File: /home/nick/arch-ntua/ex02/graphs/4.2/ii/470.lbm.cslab_branch_predictors.o
+ut.pdf Graphic file (type pdf)
+<use /home/nick/arch-ntua/ex02/graphs/4.2/ii/470.lbm.cslab_branch_predictors.ou
+t.pdf>
+File: /home/nick/arch-ntua/ex02/graphs/4.2/ii/471.omnetpp.cslab_branch_predicto
+rs.out.pdf Graphic file (type pdf)
+<use /home/nick/arch-ntua/ex02/graphs/4.2/ii/471.omnetpp.cslab_branch_predictor
+s.out.pdf>
+ [24]
+File: /home/nick/arch-ntua/ex02/graphs/4.2/ii/473.astar.cslab_branch_predictors
+.out.pdf Graphic file (type pdf)
+<use /home/nick/arch-ntua/ex02/graphs/4.2/ii/473.astar.cslab_branch_predictors.
+out.pdf>
+File: /home/nick/arch-ntua/ex02/graphs/4.2/ii/483.xalancbmk.cslab_branch_predic
+tors.out.pdf Graphic file (type pdf)
+<use /home/nick/arch-ntua/ex02/graphs/4.2/ii/483.xalancbmk.cslab_branch_predict
+ors.out.pdf>
+ [25]
+File: /home/nick/arch-ntua/ex02/graphs/4.2/ii/gmean.pdf Graphic file (type pdf)
+
+<use /home/nick/arch-ntua/ex02/graphs/4.2/ii/gmean.pdf>
+
+Overfull \hbox (18.02182pt too wide) in paragraph at lines 458--459
+\TU/MinionPro(0)/m/n/12 διαγράμματα για κάθε benchmark αλλά και τον γεωμετρικό 
+μέσο των αποτελεσμάτων, θα επιλέγαμε
+ []
+
+[26]
+File: /home/nick/arch-ntua/ex02/graphs/4.3/403.gcc.cslab_branch_predictors.out.
+pdf Graphic file (type pdf)
+<use /home/nick/arch-ntua/ex02/graphs/4.3/403.gcc.cslab_branch_predictors.out.p
+df>
+File: /home/nick/arch-ntua/ex02/graphs/4.3/429.mcf.cslab_branch_predictors.out.
+pdf Graphic file (type pdf)
+<use /home/nick/arch-ntua/ex02/graphs/4.3/429.mcf.cslab_branch_predictors.out.p
+df>
+ [27]
+File: /home/nick/arch-ntua/ex02/graphs/4.3/434.zeusmp.cslab_branch_predictors.o
+ut.pdf Graphic file (type pdf)
+<use /home/nick/arch-ntua/ex02/graphs/4.3/434.zeusmp.cslab_branch_predictors.ou
+t.pdf>
+File: /home/nick/arch-ntua/ex02/graphs/4.3/436.cactusADM.cslab_branch_predictor
+s.out.pdf Graphic file (type pdf)
+<use /home/nick/arch-ntua/ex02/graphs/4.3/436.cactusADM.cslab_branch_predictors
+.out.pdf>
+ [28]
+File: /home/nick/arch-ntua/ex02/graphs/4.3/445.gobmk.cslab_branch_predictors.ou
+t.pdf Graphic file (type pdf)
+<use /home/nick/arch-ntua/ex02/graphs/4.3/445.gobmk.cslab_branch_predictors.out
+.pdf>
+File: /home/nick/arch-ntua/ex02/graphs/4.3/450.soplex.cslab_branch_predictors.o
+ut.pdf Graphic file (type pdf)
+<use /home/nick/arch-ntua/ex02/graphs/4.3/450.soplex.cslab_branch_predictors.ou
+t.pdf>
+ [29]
+File: /home/nick/arch-ntua/ex02/graphs/4.3/456.hmmer.cslab_branch_predictors.ou
+t.pdf Graphic file (type pdf)
+<use /home/nick/arch-ntua/ex02/graphs/4.3/456.hmmer.cslab_branch_predictors.out
+.pdf>
+File: /home/nick/arch-ntua/ex02/graphs/4.3/458.sjeng.cslab_branch_predictors.ou
+t.pdf Graphic file (type pdf)
+<use /home/nick/arch-ntua/ex02/graphs/4.3/458.sjeng.cslab_branch_predictors.out
+.pdf>
+ [30]
+File: /home/nick/arch-ntua/ex02/graphs/4.3/459.GemsFDTD.cslab_branch_predictors
+.out.pdf Graphic file (type pdf)
+<use /home/nick/arch-ntua/ex02/graphs/4.3/459.GemsFDTD.cslab_branch_predictors.
+out.pdf>
+File: /home/nick/arch-ntua/ex02/graphs/4.3/462.libquantum.cslab_branch_predicto
+rs.out.pdf Graphic file (type pdf)
+<use /home/nick/arch-ntua/ex02/graphs/4.3/462.libquantum.cslab_branch_predictor
+s.out.pdf>
+ [31]
+File: /home/nick/arch-ntua/ex02/graphs/4.3/470.lbm.cslab_branch_predictors.out.
+pdf Graphic file (type pdf)
+<use /home/nick/arch-ntua/ex02/graphs/4.3/470.lbm.cslab_branch_predictors.out.p
+df>
+File: /home/nick/arch-ntua/ex02/graphs/4.3/471.omnetpp.cslab_branch_predictors.
+out.pdf Graphic file (type pdf)
+<use /home/nick/arch-ntua/ex02/graphs/4.3/471.omnetpp.cslab_branch_predictors.o
+ut.pdf>
+ [32]
+File: /home/nick/arch-ntua/ex02/graphs/4.3/473.astar.cslab_branch_predictors.ou
+t.pdf Graphic file (type pdf)
+<use /home/nick/arch-ntua/ex02/graphs/4.3/473.astar.cslab_branch_predictors.out
+.pdf>
+File: /home/nick/arch-ntua/ex02/graphs/4.3/483.xalancbmk.cslab_branch_predictor
+s.out.pdf Graphic file (type pdf)
+<use /home/nick/arch-ntua/ex02/graphs/4.3/483.xalancbmk.cslab_branch_predictors
+.out.pdf>
+ [33]
+File: /home/nick/arch-ntua/ex02/graphs/4.3/gmean.pdf Graphic file (type pdf)
+<use /home/nick/arch-ntua/ex02/graphs/4.3/gmean.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 587--588
+
+ []
+
+[34]
+Overfull \hbox (32.35811pt too wide) in paragraph at lines 589--590
+[]\TU/MinionPro(0)/m/n/12 Από τα διαγράμματα παρατηρούμε ότι για σταθερό πλήθος
+ entries (γινόμενο $[]$
+ []
+
+File: /home/nick/arch-ntua/ex02/graphs/4.4/403.gcc.cslab_branch_predictors.out.
+pdf Graphic file (type pdf)
+<use /home/nick/arch-ntua/ex02/graphs/4.4/403.gcc.cslab_branch_predictors.out.p
+df>
+File: /home/nick/arch-ntua/ex02/graphs/4.4/429.mcf.cslab_branch_predictors.out.
+pdf Graphic file (type pdf)
+<use /home/nick/arch-ntua/ex02/graphs/4.4/429.mcf.cslab_branch_predictors.out.p
+df>
+[35]
+File: /home/nick/arch-ntua/ex02/graphs/4.4/434.zeusmp.cslab_branch_predictors.o
+ut.pdf Graphic file (type pdf)
+<use /home/nick/arch-ntua/ex02/graphs/4.4/434.zeusmp.cslab_branch_predictors.ou
+t.pdf>
+File: /home/nick/arch-ntua/ex02/graphs/4.4/436.cactusADM.cslab_branch_predictor
+s.out.pdf Graphic file (type pdf)
+<use /home/nick/arch-ntua/ex02/graphs/4.4/436.cactusADM.cslab_branch_predictors
+.out.pdf>
+ [36]
+File: /home/nick/arch-ntua/ex02/graphs/4.4/445.gobmk.cslab_branch_predictors.ou
+t.pdf Graphic file (type pdf)
+<use /home/nick/arch-ntua/ex02/graphs/4.4/445.gobmk.cslab_branch_predictors.out
+.pdf>
+File: /home/nick/arch-ntua/ex02/graphs/4.4/450.soplex.cslab_branch_predictors.o
+ut.pdf Graphic file (type pdf)
+<use /home/nick/arch-ntua/ex02/graphs/4.4/450.soplex.cslab_branch_predictors.ou
+t.pdf>
+ [37]
+File: /home/nick/arch-ntua/ex02/graphs/4.4/456.hmmer.cslab_branch_predictors.ou
+t.pdf Graphic file (type pdf)
+<use /home/nick/arch-ntua/ex02/graphs/4.4/456.hmmer.cslab_branch_predictors.out
+.pdf>
+File: /home/nick/arch-ntua/ex02/graphs/4.4/458.sjeng.cslab_branch_predictors.ou
+t.pdf Graphic file (type pdf)
+<use /home/nick/arch-ntua/ex02/graphs/4.4/458.sjeng.cslab_branch_predictors.out
+.pdf>
+ [38]
+File: /home/nick/arch-ntua/ex02/graphs/4.4/459.GemsFDTD.cslab_branch_predictors
+.out.pdf Graphic file (type pdf)
+<use /home/nick/arch-ntua/ex02/graphs/4.4/459.GemsFDTD.cslab_branch_predictors.
+out.pdf>
+File: /home/nick/arch-ntua/ex02/graphs/4.4/462.libquantum.cslab_branch_predicto
+rs.out.pdf Graphic file (type pdf)
+<use /home/nick/arch-ntua/ex02/graphs/4.4/462.libquantum.cslab_branch_predictor
+s.out.pdf>
+ [39]
+File: /home/nick/arch-ntua/ex02/graphs/4.4/470.lbm.cslab_branch_predictors.out.
+pdf Graphic file (type pdf)
+<use /home/nick/arch-ntua/ex02/graphs/4.4/470.lbm.cslab_branch_predictors.out.p
+df>
+File: /home/nick/arch-ntua/ex02/graphs/4.4/471.omnetpp.cslab_branch_predictors.
+out.pdf Graphic file (type pdf)
+<use /home/nick/arch-ntua/ex02/graphs/4.4/471.omnetpp.cslab_branch_predictors.o
+ut.pdf>
+ [40]
+File: /home/nick/arch-ntua/ex02/graphs/4.4/473.astar.cslab_branch_predictors.ou
+t.pdf Graphic file (type pdf)
+<use /home/nick/arch-ntua/ex02/graphs/4.4/473.astar.cslab_branch_predictors.out
+.pdf>
+File: /home/nick/arch-ntua/ex02/graphs/4.4/483.xalancbmk.cslab_branch_predictor
+s.out.pdf Graphic file (type pdf)
+<use /home/nick/arch-ntua/ex02/graphs/4.4/483.xalancbmk.cslab_branch_predictors
+.out.pdf>
+ [41]
+File: /home/nick/arch-ntua/ex02/graphs/4.4/gmean.pdf Graphic file (type pdf)
+<use /home/nick/arch-ntua/ex02/graphs/4.4/gmean.pdf>
+
+Overfull \hbox (10.35399pt too wide) in paragraph at lines 717--718
+\TU/MinionPro(0)/m/n/12 μετέτειτα τιμές. Με αύξηση των entries πάντα το MPKI με
+ιώνεται. Στις περισσότερες περιπτώσεις,
+ []
+
+
+Overfull \hbox (5.40652pt too wide) in paragraph at lines 717--718
+\TU/MinionPro(0)/m/n/12 μετά από 8 entries, δεν υπάρχει ουσιαστική αλλαγή στις 
+επιδόσεις, αφού το MPKI έχει ουσιαστικά
+ []
+
+[42] [43] [44]
+File: /home/nick/arch-ntua/ex02/graphs/4.5/403.gcc.cslab_branch_predictors.out.
+pdf Graphic file (type pdf)
+<use /home/nick/arch-ntua/ex02/graphs/4.5/403.gcc.cslab_branch_predictors.out.p
+df>
+File: /home/nick/arch-ntua/ex02/graphs/4.5/429.mcf.cslab_branch_predictors.out.
+pdf Graphic file (type pdf)
+<use /home/nick/arch-ntua/ex02/graphs/4.5/429.mcf.cslab_branch_predictors.out.p
+df>
+ [45]
+File: /home/nick/arch-ntua/ex02/graphs/4.5/434.zeusmp.cslab_branch_predictors.o
+ut.pdf Graphic file (type pdf)
+<use /home/nick/arch-ntua/ex02/graphs/4.5/434.zeusmp.cslab_branch_predictors.ou
+t.pdf>
+File: /home/nick/arch-ntua/ex02/graphs/4.5/436.cactusADM.cslab_branch_predictor
+s.out.pdf Graphic file (type pdf)
+<use /home/nick/arch-ntua/ex02/graphs/4.5/436.cactusADM.cslab_branch_predictors
+.out.pdf>
+ [46]
+File: /home/nick/arch-ntua/ex02/graphs/4.5/445.gobmk.cslab_branch_predictors.ou
+t.pdf Graphic file (type pdf)
+<use /home/nick/arch-ntua/ex02/graphs/4.5/445.gobmk.cslab_branch_predictors.out
+.pdf>
+File: /home/nick/arch-ntua/ex02/graphs/4.5/450.soplex.cslab_branch_predictors.o
+ut.pdf Graphic file (type pdf)
+<use /home/nick/arch-ntua/ex02/graphs/4.5/450.soplex.cslab_branch_predictors.ou
+t.pdf>
+ [47]
+File: /home/nick/arch-ntua/ex02/graphs/4.5/456.hmmer.cslab_branch_predictors.ou
+t.pdf Graphic file (type pdf)
+<use /home/nick/arch-ntua/ex02/graphs/4.5/456.hmmer.cslab_branch_predictors.out
+.pdf>
+File: /home/nick/arch-ntua/ex02/graphs/4.5/458.sjeng.cslab_branch_predictors.ou
+t.pdf Graphic file (type pdf)
+<use /home/nick/arch-ntua/ex02/graphs/4.5/458.sjeng.cslab_branch_predictors.out
+.pdf>
+ [48]
+File: /home/nick/arch-ntua/ex02/graphs/4.5/459.GemsFDTD.cslab_branch_predictors
+.out.pdf Graphic file (type pdf)
+<use /home/nick/arch-ntua/ex02/graphs/4.5/459.GemsFDTD.cslab_branch_predictors.
+out.pdf>
+File: /home/nick/arch-ntua/ex02/graphs/4.5/462.libquantum.cslab_branch_predicto
+rs.out.pdf Graphic file (type pdf)
+<use /home/nick/arch-ntua/ex02/graphs/4.5/462.libquantum.cslab_branch_predictor
+s.out.pdf>
+ [49]
+File: /home/nick/arch-ntua/ex02/graphs/4.5/470.lbm.cslab_branch_predictors.out.
+pdf Graphic file (type pdf)
+<use /home/nick/arch-ntua/ex02/graphs/4.5/470.lbm.cslab_branch_predictors.out.p
+df>
+File: /home/nick/arch-ntua/ex02/graphs/4.5/471.omnetpp.cslab_branch_predictors.
+out.pdf Graphic file (type pdf)
+<use /home/nick/arch-ntua/ex02/graphs/4.5/471.omnetpp.cslab_branch_predictors.o
+ut.pdf>
+ [50]
+File: /home/nick/arch-ntua/ex02/graphs/4.5/473.astar.cslab_branch_predictors.ou
+t.pdf Graphic file (type pdf)
+<use /home/nick/arch-ntua/ex02/graphs/4.5/473.astar.cslab_branch_predictors.out
+.pdf>
+File: /home/nick/arch-ntua/ex02/graphs/4.5/483.xalancbmk.cslab_branch_predictor
+s.out.pdf Graphic file (type pdf)
+<use /home/nick/arch-ntua/ex02/graphs/4.5/483.xalancbmk.cslab_branch_predictors
+.out.pdf>
+ [51]
+File: /home/nick/arch-ntua/ex02/graphs/4.5/gmean.pdf Graphic file (type pdf)
+<use /home/nick/arch-ntua/ex02/graphs/4.5/gmean.pdf>
+
+Overfull \hbox (11.42554pt too wide) in paragraph at lines 959--960
+\TU/MinionPro(0)/m/n/12 ο Static BTFNT, καθώς αυτοί οι δύο predictors δεν διαθέ
+τουν καθόλου ”ευφυΐα”. Ύστερα ακολουθεί
+ []
+
+
+Overfull \hbox (1.06493pt too wide) in paragraph at lines 959--960
+\TU/MinionPro(0)/m/n/12 ο Pentium-M predictor, ενώ οι υπόλοιποι predictors βρίσ
+κονται περίπου στην ίδια τάξη επίδοσης
+ []
+
+
+Overfull \hbox (3.3696pt too wide) in paragraph at lines 959--960
+\TU/MinionPro(0)/m/n/12 (πχ 9-14% στο [][]\TU/lmtt/m/n/12 403.gcc[]\TU/MinionPr
+o(0)/m/n/12 ). Σε όλα τα benchmarks η επίδοση του Alpha predictor είναι η καλύτ
+ερη,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 959--960
+
+ []
+
+[52] [53] (./report.aux) ) 
+Here is how much of TeX's memory you used:
+ 13267 strings out of 479819
+ 283182 string characters out of 5895846
+ 841370 words of memory out of 5000000
+ 30175 multiletter control sequences out of 15000+600000
+ 537883 words of font info for 84 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 59i,6n,109p,940b,333s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on report.pdf (53 pages).

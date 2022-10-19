@@ -1,0 +1,1 @@
+-o BigLakes1024.out -e BigLakes1024.err ./astar_base.amd64-m64-gcc42-nn BigLakes1024.cfg
